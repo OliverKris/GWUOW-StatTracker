@@ -1,0 +1,2224 @@
+[00:00:00] ,match_start,0,Esperança,Push,Team 1,Team 2
+[00:00:00] ,hero_spawn,0,Team 2,Mercy,Mercy,0,0
+[00:00:00] ,hero_spawn,0,Team 2,Ana,Ana,0,0
+[00:00:00] ,hero_spawn,0,Team 2,Bastion,Bastion,0,0
+[00:00:00] ,hero_spawn,0,Team 2,Symmetra,Symmetra,0,0
+[00:00:00] ,hero_spawn,0,Team 2,Orisa,Orisa,0,0
+[00:00:00] ,hero_spawn,0,Team 1,Kiriko,Kiriko,0,0
+[00:00:00] ,hero_spawn,0,Team 1,Brigitte,Brigitte,0,0
+[00:00:06] ,hero_spawn,0,Team 1,K1W1,Doomfist,0,0
+[00:00:47] ,round_start,0,1,Team 2,0,0,0
+[00:00:47] ,hero_spawn,0,Team 1,Flameo,Bastion,0,0
+[00:00:47] ,hero_spawn,0,Team 1,OliverKris,Sojourn,0,0
+[00:00:47] ,hero_spawn,0,Team 1,K1W1,Doomfist,,0
+[00:01:12] ,setup_complete,0,1,599.99
+[00:01:13] ,ability_1_used,1.46,Team 1,OliverKris,Sojourn,0
+[00:01:14] ,ability_1_used,2.21,Team 1,K1W1,Doomfist,0
+[00:01:14] ,damage,2.27,Team 1,Flameo,Bastion,Team 1,Flameo,Bastion,Secondary Fire,43,0,0
+[00:01:20] ,ability_2_used,8.27,Team 1,K1W1,Doomfist,0
+[00:01:22] ,ability_1_used,10.32,Team 1,K1W1,Doomfist,0
+[00:01:23] ,ability_1_used,10.69,Team 1,OliverKris,Sojourn,0
+[00:01:23] ,damage,11.01,Team 1,Flameo,Bastion,Team 1,Flameo,Bastion,Secondary Fire,43,0,0
+[00:01:31] ,damage,19.58,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:32] ,damage,19.74,Team 1,Flameo,Bastion,Team 1,Flameo,Bastion,Secondary Fire,43,0,0
+[00:01:32] ,damage,19.81,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:32] ,damage,19.87,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:32] ,ability_1_used,19.90,Team 2,Mercy,Mercy,0
+[00:01:32] ,damage,19.94,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:32] ,damage,20.00,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:32] ,damage,20.06,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:32] ,damage,20.11,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:01:32] ,damage,20.18,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:01:32] ,damage,20.24,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:32] ,damage,20.42,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:32] ,damage,20.43,Team 2,Orisa,Orisa,Team 1,OliverKris,Sojourn,Primary Fire,3.50,0,0
+[00:01:32] ,damage,20.48,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:01:32] ,damage,20.54,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:32] ,damage,20.61,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:01:33] ,damage,20.67,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:33] ,damage,20.85,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:01:33] ,damage,20.90,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:01:33] ,damage,20.96,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:01:33] ,damage,21.02,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:33] ,damage,21.22,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:33] ,healing,21.26,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,damage,21.28,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:01:33] ,healing,21.30,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,healing,21.33,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,damage,21.34,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:33] ,healing,21.36,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,healing,21.39,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,damage,21.41,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:01:33] ,healing,21.42,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,healing,21.46,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,damage,21.47,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:01:33] ,healing,21.49,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,ability_2_used,21.49,Team 2,Orisa,Orisa,0
+[00:01:33] ,healing,21.52,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,healing,21.54,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,0.20,0
+[00:01:33] ,healing,21.55,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,healing,21.58,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:33] ,healing,21.62,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.65,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.68,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.71,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.73,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.45,0
+[00:01:34] ,healing,21.74,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.78,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.81,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.84,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.87,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.90,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.92,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.45,0
+[00:01:34] ,healing,21.94,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,21.97,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,22.00,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,22.03,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,22.06,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,22.10,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,22.11,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,1.27,0
+[00:01:34] ,healing,22.13,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:01:34] ,healing,22.14,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.08,0
+[00:01:34] ,damage,22.21,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,3.44,True,0
+[00:01:34] ,damage,22.21,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,1.71,0,0
+[00:01:34] ,damage,22.22,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,10.08,0,0
+[00:01:34] ,healing,22.45,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:34] ,healing,22.48,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:34] ,healing,22.51,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:34] ,damage,22.53,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,5.44,0,0
+[00:01:34] ,healing,22.54,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:34] ,healing,22.58,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:34] ,healing,22.61,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.64,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.67,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.70,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.74,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.77,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.80,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.83,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.86,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.90,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.93,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.96,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,22.99,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.02,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.06,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.09,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.12,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.15,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.18,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.22,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.25,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.28,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.31,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.34,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.38,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.41,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.44,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.47,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.50,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.54,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.57,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:35] ,healing,23.60,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:36] ,healing,23.63,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:36] ,healing,23.66,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:01:36] ,damage,23.70,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,4.50,0,0
+[00:01:36] ,healing,23.70,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,23.73,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,23.76,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,4.50,0,0
+[00:01:36] ,healing,23.76,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,23.79,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,23.81,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,18,0,0
+[00:01:36] ,damage,23.81,Team 2,Orisa,Orisa,Team 1,OliverKris,Sojourn,Primary Fire,3.50,0,0
+[00:01:36] ,damage,23.82,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,4.50,0,0
+[00:01:36] ,healing,23.82,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,23.86,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,23.89,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,4.50,0,0
+[00:01:36] ,healing,23.89,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,23.92,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,23.95,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,4.50,0,0
+[00:01:36] ,healing,23.95,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,23.98,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.00,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,18,0,0
+[00:01:36] ,healing,24.02,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,ability_1_used,24.03,Team 2,Ana,Ana,0
+[00:01:36] ,healing,24.05,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,24.08,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,24.11,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.13,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,4.50,0,0
+[00:01:36] ,healing,24.14,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,ability_1_used,24.18,Team 1,Flameo,Bastion,0
+[00:01:36] ,healing,24.18,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.19,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:01:36] ,healing,24.21,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.22,Team 1,OliverKris,Sojourn,Team 2,Symmetra,Symmetra,Primary Fire,9,0,0
+[00:01:36] ,healing,24.24,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,24.27,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.29,Team 1,OliverKris,Sojourn,Team 2,Symmetra,Symmetra,Primary Fire,9,0,0
+[00:01:36] ,damage,24.29,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,8.71,True,0
+[00:01:36] ,damage,24.29,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,4.34,0,0
+[00:01:36] ,damage,24.30,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,4.24,0,0
+[00:01:36] ,damage,24.30,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,2.10,0,0
+[00:01:36] ,healing,24.30,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.34,Team 1,OliverKris,Sojourn,Team 2,Symmetra,Symmetra,Primary Fire,18,True,0
+[00:01:36] ,healing,24.34,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,24.37,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.40,Team 1,OliverKris,Sojourn,Team 2,Symmetra,Symmetra,Primary Fire,18,True,0
+[00:01:36] ,healing,24.40,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.40,Team 2,Orisa,Orisa,Team 1,OliverKris,Sojourn,Primary Fire,3.50,0,0
+[00:01:36] ,healing,24.43,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.45,Team 1,OliverKris,Sojourn,Team 2,Symmetra,Symmetra,Primary Fire,9,0,0
+[00:01:36] ,healing,24.46,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,24.50,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.50,Team 2,Orisa,Orisa,Team 1,OliverKris,Sojourn,Primary Fire,3.50,0,0
+[00:01:36] ,damage,24.51,Team 1,OliverKris,Sojourn,Team 2,Symmetra,Symmetra,Primary Fire,18,True,0
+[00:01:36] ,healing,24.53,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,24.56,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,healing,24.59,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:36] ,damage,24.61,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,4.50,0,0
+[00:01:36] ,damage,24.61,Team 2,Orisa,Orisa,Team 1,OliverKris,Sojourn,Primary Fire,3.50,0,0
+[00:01:36] ,healing,24.62,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,24.66,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,damage,24.67,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,4.50,0,0
+[00:01:37] ,healing,24.69,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,24.72,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,damage,24.74,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,4.50,0,0
+[00:01:37] ,healing,24.75,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,24.78,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,24.82,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,damage,24.85,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,2.31,0,0
+[00:01:37] ,healing,24.85,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,damage,24.86,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,4.56,True,0
+[00:01:37] ,damage,24.86,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,9.14,0,0
+[00:01:37] ,healing,24.88,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,24.91,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,24.94,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,24.98,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,25.01,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,ability_2_used,25.02,Team 2,Ana,Ana,0
+[00:01:37] ,healing,25.04,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,25.07,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,25.10,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,25.14,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,healing,25.17,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,damage,25.20,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,healing,25.20,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.13,0
+[00:01:37] ,ability_2_used,25.22,Team 1,OliverKris,Sojourn,0
+[00:01:37] ,damage,25.23,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,healing,25.23,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.07,0
+[00:01:37] ,damage,25.26,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,damage,25.33,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,damage,25.38,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,damage,25.41,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,damage,25.44,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,ability_1_used,25.44,Team 1,K1W1,Doomfist,0
+[00:01:37] ,damage,25.47,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,damage,25.50,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,ability_1_used,25.50,Team 2,Mercy,Mercy,0
+[00:01:37] ,damage,25.54,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,ability_1_used,25.54,Team 2,Mercy,Mercy,0
+[00:01:37] ,damage,25.57,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,ability_1_used,25.57,Team 2,Mercy,Mercy,0
+[00:01:37] ,damage,25.60,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:37] ,damage,25.60,Team 2,Symmetra,Symmetra,Team 1,OliverKris,Sojourn,Secondary Fire,4.71,0,0
+[00:01:38] ,damage,25.63,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:38] ,damage,25.66,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:38] ,damage,25.70,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:38] ,damage,25.73,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:38] ,damage,25.78,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:38] ,damage,25.81,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:38] ,damage,25.84,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:38] ,damage,25.87,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:38] ,damage,25.90,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:38] ,damage,25.94,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:01:38] ,damage,25.97,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,damage,26.00,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,damage,26.03,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,damage,26.03,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Primary Fire,6.25,0,0
+[00:01:38] ,damage,26.06,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,damage,26.10,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,damage,26.13,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,damage,26.13,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Ability 2,1.28,0,0
+[00:01:38] ,damage,26.13,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Ability 2,1.28,0,0
+[00:01:38] ,damage,26.16,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:01:38] ,damage,26.16,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Ability 2,2.56,0,0
+[00:01:38] ,damage,26.16,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Ability 2,2.56,0,0
+[00:01:38] ,damage,26.18,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,healing,26.19,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,damage,26.21,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,healing,26.22,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,damage,26.24,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,healing,26.26,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,damage,26.27,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,healing,26.29,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,healing,26.29,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,0.20,0
+[00:01:38] ,damage,26.30,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,healing,26.32,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,damage,26.34,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,12,0,0
+[00:01:38] ,damage,26.35,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Ability 2,15.36,0,0
+[00:01:38] ,damage,26.35,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Ability 2,15.36,0,0
+[00:01:38] ,damage,26.35,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,2.56,0,0
+[00:01:38] ,healing,26.35,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,damage,26.37,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,5.23,0,0
+[00:01:38] ,kill,26.37,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,5.23,0,0
+[00:01:38] ,healing,26.38,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:38] ,healing,26.38,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,healing,26.42,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:38] ,healing,26.42,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,damage,26.43,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Ability 2,5.12,0,0
+[00:01:38] ,healing,26.45,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:38] ,healing,26.45,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,healing,26.48,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:38] ,healing,26.48,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,healing,26.51,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:38] ,healing,26.51,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,damage,26.54,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Ability 2,15.36,0,0
+[00:01:38] ,damage,26.54,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,15.36,0,0
+[00:01:38] ,healing,26.54,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:38] ,healing,26.54,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,healing,26.58,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:38] ,healing,26.58,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:38] ,healing,26.61,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:38] ,healing,26.61,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,26.64,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Ability 1,50,0,0
+[00:01:39] ,healing,26.64,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.64,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,healing,26.67,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.67,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,healing,26.70,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.70,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,26.72,Team 1,Kiriko,Kiriko,Team 2,Symmetra,Symmetra,0,72,0,0
+[00:01:39] ,damage,26.74,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Ability 2,15.36,0,0
+[00:01:39] ,damage,26.74,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,15.36,0,0
+[00:01:39] ,healing,26.74,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.74,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,26.77,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Ability 1,50,0,0
+[00:01:39] ,healing,26.77,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.77,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,26.78,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:01:39] ,healing,26.80,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.80,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,26.83,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:01:39] ,healing,26.83,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.83,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,26.85,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Ability 2,7.68,0,0
+[00:01:39] ,healing,26.86,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.86,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,healing,26.90,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.90,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,26.93,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,15.36,0,0
+[00:01:39] ,healing,26.93,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.93,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,healing,26.96,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.96,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,healing,26.99,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,26.99,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.01,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,healing,27.02,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.02,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.04,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,healing,27.06,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.06,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.07,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,damage,27.09,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,9,0,0
+[00:01:39] ,healing,27.09,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.09,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.12,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,15.36,0,0
+[00:01:39] ,healing,27.12,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.12,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.15,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,9,0,0
+[00:01:39] ,healing,27.15,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.15,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.17,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,healing,27.18,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.18,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.18,Team 1,Kiriko,Kiriko,Team 2,Ana,Ana,0,72,0,0
+[00:01:39] ,damage,27.22,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,9,0,0
+[00:01:39] ,healing,27.22,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.22,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.23,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,healing,27.25,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.25,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.26,Team 1,Flameo,Bastion,Team 2,Ana,Ana,Primary Fire,12,0,0
+[00:01:39] ,healing,27.28,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.28,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.31,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,15.36,0,0
+[00:01:39] ,healing,27.31,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.31,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.33,Team 1,Flameo,Bastion,Team 2,Ana,Ana,Primary Fire,12,0,0
+[00:01:39] ,healing,27.34,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.34,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.38,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,healing,27.38,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.38,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.39,Team 1,OliverKris,Sojourn,Team 2,Bastion,Bastion,Primary Fire,9,0,0
+[00:01:39] ,damage,27.41,Team 1,Flameo,Bastion,Team 2,Ana,Ana,Primary Fire,12,0,0
+[00:01:39] ,healing,27.41,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.41,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.44,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,healing,27.44,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.44,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.47,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,healing,27.47,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.47,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,damage,27.50,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,damage,27.50,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,15.36,0,0
+[00:01:39] ,healing,27.50,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:01:39] ,healing,27.50,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.13,0
+[00:01:39] ,healing,27.54,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:39] ,healing,27.54,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:39] ,damage,27.57,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,healing,27.57,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:39] ,damage,27.57,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Primary Fire,6.25,0,0
+[00:01:39] ,healing,27.57,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:39] ,damage,27.60,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,12,0,0
+[00:01:39] ,healing,27.60,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:39] ,healing,27.60,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,damage,27.63,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,9.12,0,0
+[00:01:40] ,healing,27.63,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,kill,27.63,Team 1,Flameo,Bastion,Team 2,Bastion,Bastion,Primary Fire,9.12,0,0
+[00:01:40] ,healing,27.63,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,healing,27.66,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.66,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,damage,27.70,Team 1,Flameo,Bastion,Team 2,Mercy,Mercy,Primary Fire,12,0,0
+[00:01:40] ,damage,27.70,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,15.36,0,0
+[00:01:40] ,healing,27.70,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.70,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,healing,27.73,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.73,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,healing,27.76,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.76,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,damage,27.78,Team 1,Flameo,Bastion,Team 2,Ana,Ana,Primary Fire,12,0,0
+[00:01:40] ,healing,27.79,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.79,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,healing,27.82,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.82,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,healing,27.86,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.86,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,damage,27.89,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,15.36,0,0
+[00:01:40] ,healing,27.89,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.89,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,healing,27.92,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.92,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,damage,27.94,Team 1,Flameo,Bastion,Team 2,Mercy,Mercy,Primary Fire,12,0,0
+[00:01:40] ,healing,27.95,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.95,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,healing,27.98,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,27.98,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,damage,28.00,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Secondary Fire,75,0,0
+[00:01:40] ,damage,28.00,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Secondary Fire,52.40,0,0
+[00:01:40] ,kill,28.00,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Secondary Fire,52.40,0,0
+[00:01:40] ,healing,28.02,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,28.02,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,damage,28.03,Team 1,Flameo,Bastion,Team 2,Mercy,Mercy,Primary Fire,12,0,0
+[00:01:40] ,healing,28.05,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:01:40] ,healing,28.05,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:01:40] ,damage,28.06,Team 1,Flameo,Bastion,Team 2,Mercy,Mercy,Primary Fire,12,0,0
+[00:01:40] ,damage,28.08,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,1.79,0,0
+[00:01:40] ,healing,28.08,Team 1,Kiriko,Kiriko,Team 1,K1W1,Doomfist,0,6.25,0
+[00:01:40] ,kill,28.08,Team 1,OliverKris,Sojourn,Team 2,Mercy,Mercy,Ability 2,1.79,0,0
+[00:01:40] ,ability_1_used,28.16,Team 1,Brigitte,Brigitte,0
+[00:01:40] ,kill,28.48,Team 1,Kiriko,Kiriko,Team 2,Symmetra,Symmetra,0,55.91,True,0
+[00:01:40] ,damage,28.48,Team 1,Kiriko,Kiriko,Team 2,Symmetra,Symmetra,0,55.91,True,0
+[00:01:44] ,healing,31.81,Team 1,OliverKris,Sojourn,Team 1,OliverKris,Sojourn,0,4.42,0
+[00:01:44] ,healing,32.00,Team 1,OliverKris,Sojourn,Team 1,OliverKris,Sojourn,0,4.42,0
+[00:01:44] ,healing,32.19,Team 1,OliverKris,Sojourn,Team 1,OliverKris,Sojourn,0,4.08,0
+[00:01:44] ,healing,32.38,Team 1,OliverKris,Sojourn,Team 1,OliverKris,Sojourn,0,4.08,0
+[00:01:44] ,healing,32.40,Team 1,Kiriko,Kiriko,Team 1,OliverKris,Sojourn,0,5.21,0
+[00:01:47] ,ability_1_used,34.99,Team 1,K1W1,Doomfist,0
+[00:01:56] ,ability_1_used,44.40,Team 1,K1W1,Doomfist,0
+[00:02:00] ,damage,48.30,Team 1,K1W1,Doomfist,Team 2,Orisa,Orisa,Primary Fire,3.57,True,0
+[00:02:00] ,damage,48.30,Team 1,K1W1,Doomfist,Team 2,Orisa,Orisa,Primary Fire,10.59,0,0
+[00:02:00] ,damage,48.32,Team 1,K1W1,Doomfist,Team 2,Orisa,Orisa,Primary Fire,1.69,0,0
+[00:02:00] ,ability_1_used,48.48,Team 2,Mercy,Mercy,0
+[00:02:00] ,ability_1_used,48.51,Team 2,Mercy,Mercy,0
+[00:02:00] ,ability_1_used,48.54,Team 2,Mercy,Mercy,0
+[00:02:00] ,damage,48.61,Team 1,K1W1,Doomfist,Team 2,Orisa,Orisa,Primary Fire,15.45,0,0
+[00:02:01] ,healing,48.77,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,0.24,0
+[00:02:01] ,healing,48.96,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.88,0
+[00:02:01] ,healing,49.15,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.88,0
+[00:02:01] ,healing,49.34,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,1.50,0
+[00:02:02] ,healing,49.68,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,49.71,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,49.74,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,49.77,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,49.81,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,49.84,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,49.87,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,49.90,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,49.93,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,49.97,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.00,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.03,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.06,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.09,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.13,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.16,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.19,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.22,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.25,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.29,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.32,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.35,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.38,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.41,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.45,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.48,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.51,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,0.24,0
+[00:02:02] ,healing,50.51,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.54,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,damage,50.56,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,1.36,0,0
+[00:02:02] ,healing,50.57,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:02] ,healing,50.61,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.64,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.67,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.70,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.70,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.88,0
+[00:02:03] ,healing,50.73,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.77,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.80,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.83,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.86,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.89,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.88,0
+[00:02:03] ,healing,50.89,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.93,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.96,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,50.99,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.02,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.05,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.09,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.09,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,1.50,0
+[00:02:03] ,healing,51.12,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.15,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.18,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.21,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.25,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.28,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.31,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.34,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.37,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.41,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.44,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.47,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.50,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.53,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.57,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:03] ,healing,51.60,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,0.24,0
+[00:02:03] ,healing,51.60,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:04] ,healing,51.63,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:04] ,healing,51.66,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:04] ,healing,51.69,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:04] ,healing,51.73,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:04] ,healing,51.76,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:04] ,healing,51.79,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.88,0
+[00:02:04] ,healing,51.79,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:04] ,healing,51.82,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.19,0
+[00:02:04] ,healing,51.85,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.13,0
+[00:02:04] ,healing,52.19,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:04] ,healing,52.22,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:04] ,healing,52.25,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:04] ,healing,52.29,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:04] ,healing,52.32,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:04] ,healing,52.35,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:04] ,healing,52.38,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:04] ,healing,52.41,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.01,0
+[00:02:04] ,damage,52.45,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,35,0,0
+[00:02:04] ,damage,52.46,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,10,0,0
+[00:02:05] ,damage,52.78,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,30,0,0
+[00:02:05] ,damage,53.21,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,20,True,0
+[00:02:05] ,damage,53.21,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,15,0,0
+[00:02:05] ,ability_1_used,53.47,Team 2,Mercy,Mercy,0
+[00:02:06] ,ability_2_used,53.73,Team 2,Ana,Ana,0
+[00:02:06] ,damage,53.87,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,0.53,0,0
+[00:02:06] ,damage,53.92,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,0.53,0,0
+[00:02:06] ,damage,54.22,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Secondary Fire,75,0,0
+[00:02:06] ,damage,54.22,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Secondary Fire,68,0,0
+[00:02:06] ,damage,54.22,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Secondary Fire,75,0,0
+[00:02:06] ,healing,54.49,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:06] ,healing,54.49,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:06] ,healing,54.53,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:06] ,healing,54.53,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:06] ,damage,54.54,Team 2,Orisa,Orisa,Team 1,K1W1,Doomfist,Primary Fire,3.50,0,0
+[00:02:06] ,healing,54.56,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:06] ,healing,54.56,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:06] ,healing,54.59,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:06] ,healing,54.59,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:06] ,healing,54.62,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:06] ,healing,54.62,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,damage,54.64,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Secondary Fire,40,0,0
+[00:02:07] ,damage,54.65,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Secondary Fire,33,0,0
+[00:02:07] ,healing,54.65,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.65,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,54.69,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.69,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,54.72,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.72,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,damage,54.73,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,5,0,0
+[00:02:07] ,healing,54.75,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.75,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,54.78,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.78,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,54.81,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.81,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,damage,54.85,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,10,0,0
+[00:02:07] ,healing,54.85,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.85,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,damage,54.88,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,14.27,0,0
+[00:02:07] ,healing,54.88,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.88,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,54.91,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.91,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,54.94,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.94,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,54.97,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,54.97,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.01,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.01,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.04,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.04,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.07,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.07,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,ability_1_used,55.09,Team 1,K1W1,Doomfist,0
+[00:02:07] ,healing,55.10,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.10,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.13,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.13,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.17,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.17,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.20,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.20,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.23,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.23,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.26,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.26,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.29,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.29,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.33,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.33,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.36,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.36,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.39,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.39,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.42,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.42,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.45,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.45,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.49,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.49,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.52,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.52,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.55,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.55,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.58,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.58,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:07] ,healing,55.61,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:07] ,healing,55.61,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,healing,55.65,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,55.65,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,healing,55.68,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,55.68,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,healing,55.71,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,55.71,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,healing,55.74,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,ability_1_used,55.74,Team 2,Mercy,Mercy,0
+[00:02:08] ,healing,55.74,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,healing,55.77,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,55.77,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,ability_1_used,55.79,Team 2,Mercy,Mercy,0
+[00:02:08] ,healing,55.81,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,55.81,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,healing,55.84,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,ability_1_used,55.84,Team 2,Mercy,Mercy,0
+[00:02:08] ,healing,55.84,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,healing,55.87,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,55.87,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,healing,55.90,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,55.90,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,healing,55.93,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,55.93,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,healing,55.97,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,55.97,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.19,0
+[00:02:08] ,damage,55.98,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Ability 1,50,0,0
+[00:02:08] ,damage,56.00,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Ability 1,50,0,0
+[00:02:08] ,healing,56.00,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:02:08] ,healing,56.00,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.10,0
+[00:02:08] ,healing,56.01,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.01,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.05,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.05,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,damage,56.06,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Ability 1,50,0,0
+[00:02:08] ,healing,56.08,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.08,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.11,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.11,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,damage,56.13,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,0.48,0,0
+[00:02:08] ,damage,56.14,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Ability 1,50,0,0
+[00:02:08] ,healing,56.14,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.14,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.17,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.17,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.21,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.21,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.24,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.24,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,damage,56.25,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Primary Fire,6.25,0,0
+[00:02:08] ,damage,56.25,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,1.68,0,0
+[00:02:08] ,healing,56.27,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.27,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.30,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.30,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.33,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.33,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.37,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.37,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,damage,56.40,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,30,True,0
+[00:02:08] ,healing,56.40,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.40,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,damage,56.41,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,5,0,0
+[00:02:08] ,healing,56.43,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.43,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.46,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,damage,56.46,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Primary Fire,6.25,0,0
+[00:02:08] ,healing,56.46,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.49,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.49,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.53,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.53,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.56,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.56,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,damage,56.57,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,0.48,0,0
+[00:02:08] ,healing,56.59,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.59,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:08] ,healing,56.62,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:08] ,healing,56.62,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,56.64,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Primary Fire,0.24,0
+[00:02:09] ,healing,56.65,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,damage,56.65,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Primary Fire,6.25,0,0
+[00:02:09] ,healing,56.65,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,56.69,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,56.69,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,damage,56.72,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,20,True,0
+[00:02:09] ,healing,56.72,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,56.72,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,damage,56.73,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,5,0,0
+[00:02:09] ,damage,56.73,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,10,True,0
+[00:02:09] ,healing,56.75,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,56.75,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,damage,56.77,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,2.88,0,0
+[00:02:09] ,healing,56.78,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,56.78,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,56.81,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,56.81,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,56.83,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Primary Fire,2.88,0
+[00:02:09] ,healing,56.85,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,damage,56.85,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,0.96,0,0
+[00:02:09] ,healing,56.85,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,56.88,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,56.88,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,56.91,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,56.91,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,56.94,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,56.94,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,56.97,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,56.97,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.01,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.01,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.02,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Primary Fire,2.88,0
+[00:02:09] ,healing,57.04,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.04,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.07,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.07,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.10,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.10,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.13,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.13,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.17,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.17,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.20,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.20,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.21,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Primary Fire,1.50,0
+[00:02:09] ,healing,57.23,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.23,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.26,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.26,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.29,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.29,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.33,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.33,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.36,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.36,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.39,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.39,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.42,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.42,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.45,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.45,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.49,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.49,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.52,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.52,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.55,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.55,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.58,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.58,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:09] ,healing,57.61,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:09] ,healing,57.61,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.65,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.65,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.68,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.68,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.71,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.71,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.74,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.74,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.77,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.77,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.81,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.81,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.84,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.84,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.87,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.87,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.90,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.90,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.93,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.93,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,57.97,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,57.97,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.00,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.00,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.03,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.03,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.06,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.06,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.09,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.09,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.13,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.13,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.16,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.16,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.19,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.19,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.22,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.22,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.25,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.25,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.29,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.29,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.32,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.32,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Primary Fire,0.24,0
+[00:02:10] ,healing,58.32,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.35,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.35,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.38,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.38,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.41,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.41,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.45,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.45,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.48,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.48,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.51,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.51,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Primary Fire,2.88,0
+[00:02:10] ,healing,58.51,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.54,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.54,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.57,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.57,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:10] ,healing,58.61,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:10] ,healing,58.61,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.64,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.64,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.67,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.67,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.70,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.70,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Primary Fire,2.88,0
+[00:02:11] ,healing,58.70,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.73,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.73,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.77,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.77,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.80,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.80,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.83,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.83,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.86,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.86,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.89,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.89,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Primary Fire,1.50,0
+[00:02:11] ,healing,58.89,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.93,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.93,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.96,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.96,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,58.99,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,58.99,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.02,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.02,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.05,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.05,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.09,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.09,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.12,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.12,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,0.24,0
+[00:02:11] ,healing,59.12,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.15,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.15,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.18,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.18,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.21,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.21,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.25,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.25,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.26,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.47,0
+[00:02:11] ,healing,59.28,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.28,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.31,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.31,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:11] ,healing,59.31,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.34,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.34,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.44,0
+[00:02:11] ,healing,59.34,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.37,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.37,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.41,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:11] ,healing,59.41,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:11] ,healing,59.42,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:02:11] ,healing,59.42,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.10,0
+[00:02:11] ,healing,59.45,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.47,0
+[00:02:11] ,healing,59.50,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:11] ,healing,59.53,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.44,0
+[00:02:12] ,healing,59.65,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:12] ,healing,59.69,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,1.50,0
+[00:02:12] ,healing,59.73,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.37,0
+[00:02:12] ,healing,59.84,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:12] ,healing,59.92,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.44,0
+[00:02:12] ,healing,59.92,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,0.24,0
+[00:02:12] ,damage,60.01,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Secondary Fire,50.69,0,0
+[00:02:12] ,damage,60.01,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Secondary Fire,75,0,0
+[00:02:12] ,kill,60.01,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Secondary Fire,50.69,0,0
+[00:02:12] ,healing,60.03,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:12] ,healing,60.11,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.37,0
+[00:02:12] ,healing,60.11,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:12] ,healing,60.22,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:12] ,healing,60.30,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.41,0
+[00:02:12] ,healing,60.30,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:12] ,healing,60.41,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:12] ,healing,60.49,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.44,0
+[00:02:12] ,healing,60.49,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,1.50,0
+[00:02:12] ,healing,60.61,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:13] ,damage,60.64,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,19.87,0,0
+[00:02:13] ,healing,60.69,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.41,0
+[00:02:13] ,healing,60.80,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:13] ,healing,60.88,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.41,0
+[00:02:13] ,damage,60.89,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,30,0,0
+[00:02:13] ,healing,60.89,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.18,0
+[00:02:13] ,healing,60.89,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,0.24,0
+[00:02:13] ,damage,60.91,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,10,True,0
+[00:02:13] ,healing,61.07,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.41,0
+[00:02:13] ,healing,61.09,All Teams,0,0,Team 2,Mercy,Mercy,0,144.66,True
+[00:02:13] ,healing,61.09,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:13] ,damage,61.10,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:02:13] ,ability_1_used,61.21,Team 2,Mercy,Mercy,0
+[00:02:13] ,ability_1_used,61.25,Team 2,Mercy,Mercy,0
+[00:02:13] ,damage,61.28,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:02:13] ,ability_1_used,61.28,Team 2,Mercy,Mercy,0
+[00:02:13] ,healing,61.28,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:13] ,ability_1_used,61.31,Team 2,Mercy,Mercy,0
+[00:02:13] ,damage,61.34,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:02:13] ,ability_1_used,61.34,Team 2,Mercy,Mercy,0
+[00:02:13] ,damage,61.36,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,10,True,0
+[00:02:13] ,damage,61.36,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,5,0,0
+[00:02:13] ,ability_1_used,61.37,Team 2,Mercy,Mercy,0
+[00:02:13] ,damage,61.41,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:02:13] ,ability_1_used,61.41,Team 2,Mercy,Mercy,0
+[00:02:13] ,damage,61.42,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,4.62,0,0
+[00:02:13] ,damage,61.47,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:02:13] ,ability_1_used,61.47,Team 2,Mercy,Mercy,0
+[00:02:13] ,healing,61.47,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,1.50,0
+[00:02:13] ,ability_1_used,61.50,Team 2,Mercy,Mercy,0
+[00:02:13] ,damage,61.50,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Primary Fire,6.25,0,0
+[00:02:13] ,damage,61.53,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:02:13] ,ability_1_used,61.53,Team 2,Mercy,Mercy,0
+[00:02:13] ,ability_1_used,61.57,Team 2,Mercy,Mercy,0
+[00:02:13] ,damage,61.60,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:02:13] ,ability_1_used,61.60,Team 2,Mercy,Mercy,0
+[00:02:14] ,damage,61.66,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:02:14] ,ability_1_used,61.66,Team 2,Mercy,Mercy,0
+[00:02:14] ,ability_1_used,61.69,Team 2,Mercy,Mercy,0
+[00:02:14] ,damage,61.71,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:02:14] ,ability_1_used,61.73,Team 2,Mercy,Mercy,0
+[00:02:14] ,ability_1_used,61.76,Team 2,Mercy,Mercy,0
+[00:02:14] ,damage,61.77,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:02:14] ,ability_1_used,61.79,Team 2,Mercy,Mercy,0
+[00:02:14] ,damage,61.82,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:02:14] ,ability_1_used,61.85,Team 2,Mercy,Mercy,0
+[00:02:14] ,damage,61.89,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:02:14] ,ability_1_used,61.89,Team 2,Mercy,Mercy,0
+[00:02:14] ,ability_1_used,61.92,Team 2,Mercy,Mercy,0
+[00:02:14] ,damage,61.92,Team 2,Orisa,Orisa,Team 1,OliverKris,Sojourn,Primary Fire,3.50,0,0
+[00:02:14] ,damage,61.95,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:02:14] ,ability_1_used,61.95,Team 2,Mercy,Mercy,0
+[00:02:14] ,ability_1_used,61.98,Team 2,Mercy,Mercy,0
+[00:02:14] ,damage,62.00,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Primary Fire,6.25,0,0
+[00:02:14] ,damage,62.01,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:02:14] ,ability_1_used,62.05,Team 2,Mercy,Mercy,0
+[00:02:14] ,damage,62.08,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:02:14] ,healing,62.09,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,0.24,0
+[00:02:14] ,damage,62.11,Team 1,Kiriko,Kiriko,Team 2,Orisa,Orisa,0,65,0,0
+[00:02:14] ,damage,62.14,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:02:14] ,damage,62.14,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,10,0,0
+[00:02:14] ,damage,62.14,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,20,True,0
+[00:02:14] ,damage,62.17,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,4.55,0,0
+[00:02:14] ,damage,62.19,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Primary Fire,6.25,0,0
+[00:02:14] ,damage,62.21,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:02:14] ,healing,62.29,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:14] ,healing,62.41,Team 1,Kiriko,Kiriko,Team 1,OliverKris,Sojourn,0,3.50,0
+[00:02:14] ,damage,62.43,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Secondary Fire,173,True,0
+[00:02:14] ,damage,62.45,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,0,0
+[00:02:14] ,ability_1_used,62.45,Team 1,Brigitte,Brigitte,0
+[00:02:14] ,healing,62.48,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:14] ,damage,62.53,Team 2,Orisa,Orisa,Team 1,OliverKris,Sojourn,Primary Fire,3.50,0,0
+[00:02:14] ,damage,62.56,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,9.32,0,0
+[00:02:14] ,damage,62.57,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,4.56,0,0
+[00:02:15] ,healing,62.65,Team 1,Kiriko,Kiriko,Team 1,OliverKris,Sojourn,0,3.50,0
+[00:02:15] ,healing,62.67,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,1.50,0
+[00:02:15] ,ability_2_used,62.73,Team 2,Orisa,Orisa,0
+[00:02:15] ,ability_1_used,63.18,Team 1,K1W1,Doomfist,0
+[00:02:15] ,damage,63.28,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,4.92,0,0
+[00:02:15] ,healing,63.45,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,0.24,0
+[00:02:16] ,healing,63.65,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:16] ,healing,63.84,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:16] ,kill,63.84,Team 1,Brigitte,Brigitte,Team 2,Orisa,Orisa,Primary Fire,81.50,0,0
+[00:02:16] ,damage,63.84,Team 1,Brigitte,Brigitte,Team 2,Orisa,Orisa,Primary Fire,81.50,0,0
+[00:02:16] ,damage,63.89,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Ability 1,38.34,0,0
+[00:02:16] ,kill,63.89,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Ability 1,38.34,0,0
+[00:02:16] ,healing,64.03,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,1.50,0
+[00:02:16] ,defensive_assist,64.06,Team 1,Kiriko,Kiriko,0
+[00:02:16] ,ability_2_used,64.08,Team 1,OliverKris,Sojourn,0
+[00:02:16] ,ability_1_used,64.51,Team 2,Mercy,Mercy,0
+[00:02:16] ,ability_1_used,64.56,Team 2,Mercy,Mercy,0
+[00:02:16] ,ability_1_used,64.59,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,64.65,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,64.69,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,64.72,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,64.75,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,64.78,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,64.85,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,64.88,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,64.91,Team 2,Mercy,Mercy,0
+[00:02:17] ,damage,64.94,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Secondary Fire,43.75,0,0
+[00:02:17] ,ability_1_used,64.94,Team 2,Mercy,Mercy,0
+[00:02:17] ,damage,65.02,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Secondary Fire,21.25,0,0
+[00:02:17] ,ability_1_used,65.04,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.09,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.12,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.18,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.21,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.25,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.28,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.31,Team 2,Mercy,Mercy,0
+[00:02:17] ,damage,65.31,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Melee,10,0,0
+[00:02:17] ,ability_1_used,65.34,Team 2,Mercy,Mercy,0
+[00:02:17] ,damage,65.37,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,53.59,0,0
+[00:02:17] ,kill,65.37,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,53.59,0,0
+[00:02:17] ,ability_1_used,65.41,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.44,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.47,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.50,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.53,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.57,Team 2,Mercy,Mercy,0
+[00:02:17] ,ability_1_used,65.60,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.63,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.66,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.69,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.73,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.76,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.79,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.82,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.85,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.89,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.92,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.95,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,65.98,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.01,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.05,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.08,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.11,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.14,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.17,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.21,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.24,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.27,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.30,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.33,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.37,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.40,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.43,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.46,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.49,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.53,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.56,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.59,Team 2,Mercy,Mercy,0
+[00:02:18] ,ability_1_used,66.62,Team 2,Mercy,Mercy,0
+[00:02:19] ,ability_1_used,66.65,Team 2,Mercy,Mercy,0
+[00:02:19] ,ability_1_used,66.69,Team 2,Mercy,Mercy,0
+[00:02:19] ,ability_1_used,66.72,Team 2,Mercy,Mercy,0
+[00:02:19] ,ability_1_used,66.75,Team 2,Mercy,Mercy,0
+[00:02:19] ,ability_1_used,66.78,Team 2,Mercy,Mercy,0
+[00:02:19] ,ability_1_used,66.81,Team 2,Mercy,Mercy,0
+[00:02:19] ,ability_1_used,66.85,Team 2,Mercy,Mercy,0
+[00:02:19] ,ability_1_used,66.88,Team 2,Mercy,Mercy,0
+[00:02:19] ,ability_1_used,66.91,Team 2,Mercy,Mercy,0
+[00:02:20] ,ability_2_used,67.76,Team 2,Mercy,Mercy,0
+[00:02:21] ,damage,68.75,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,50,True,0
+[00:02:21] ,damage,68.75,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,15,0,0
+[00:02:21] ,damage,69.04,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,50,True,0
+[00:02:21] ,damage,69.04,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,30,0,0
+[00:02:21] ,damage,69.34,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,80,True,0
+[00:02:21] ,ultimate_charged,69.34,Team 1,K1W1,Doomfist,0,1
+[00:02:21] ,kill,69.34,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,80,True,0
+[00:02:22] ,ability_1_used,69.69,Team 1,OliverKris,Sojourn,0
+[00:02:31] ,ability_1_used,79.20,Team 1,K1W1,Doomfist,0
+[00:02:37] ,damage,85.56,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,5.08,0,0
+[00:02:37] ,damage,85.58,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,2.25,0,0
+[00:02:37] ,damage,85.58,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,5.01,0,0
+[00:02:38] ,damage,85.88,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,8.02,0,0
+[00:02:38] ,damage,85.90,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,2.40,0,0
+[00:02:38] ,damage,85.90,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,4.88,True,0
+[00:02:38] ,ability_1_used,86.48,Team 1,K1W1,Doomfist,0
+[00:02:39] ,damage,86.70,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,6.00,0,0
+[00:02:39] ,damage,86.70,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,3.05,True,0
+[00:02:39] ,damage,86.70,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,2.88,0,0
+[00:02:39] ,healing,86.70,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,86.70,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:39] ,healing,86.73,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,86.73,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:39] ,healing,86.76,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,86.76,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:39] ,healing,86.80,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,86.80,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:39] ,healing,86.83,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,86.83,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:39] ,healing,86.86,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,86.86,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:39] ,healing,86.89,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,86.89,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:39] ,healing,86.91,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:02:39] ,healing,86.91,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.10,0
+[00:02:39] ,healing,86.92,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,86.92,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,86.96,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,86.96,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,86.99,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,86.99,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.02,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.02,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.05,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.05,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.08,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.08,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.12,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.12,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.13,Team 2,Ana,Ana,Team 2,Symmetra,Symmetra,Primary Fire,0.24,0
+[00:02:39] ,healing,87.15,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.15,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.18,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.18,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.21,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.21,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.24,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.24,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.28,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.28,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.31,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.31,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.32,Team 2,Ana,Ana,Team 2,Symmetra,Symmetra,Primary Fire,2.88,0
+[00:02:39] ,healing,87.34,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.34,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.37,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.37,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.40,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.40,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.44,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.44,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.47,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.47,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.50,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.50,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.52,Team 2,Ana,Ana,Team 2,Symmetra,Symmetra,Primary Fire,2.88,0
+[00:02:39] ,healing,87.53,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.53,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,healing,87.56,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:39] ,healing,87.56,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:39] ,damage,87.58,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Ability 1,43,0,0
+[00:02:39] ,damage,87.60,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Ability 1,50,0,0
+[00:02:39] ,healing,87.60,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:02:39] ,healing,87.60,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.10,0
+[00:02:40] ,damage,87.63,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Ability 1,50,0,0
+[00:02:40] ,healing,87.66,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.66,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,87.69,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.69,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,damage,87.71,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Ability 1,50,0,0
+[00:02:40] ,healing,87.71,Team 2,Ana,Ana,Team 2,Symmetra,Symmetra,Primary Fire,1.50,0
+[00:02:40] ,healing,87.72,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.72,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,87.76,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.76,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,87.79,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.79,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,87.82,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.82,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,87.85,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.85,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,87.88,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.88,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,87.92,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.92,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,87.93,Team 2,Ana,Ana,Team 2,Symmetra,Symmetra,Primary Fire,0.24,0
+[00:02:40] ,healing,87.95,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.95,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,87.98,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,87.98,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.01,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.01,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.04,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.04,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.08,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.08,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.11,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.11,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.12,Team 2,Ana,Ana,Team 2,Symmetra,Symmetra,Primary Fire,2.88,0
+[00:02:40] ,healing,88.14,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.14,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.17,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.17,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.20,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.20,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.24,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.24,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.27,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.27,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.30,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.30,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.32,Team 2,Ana,Ana,Team 2,Symmetra,Symmetra,Primary Fire,2.88,0
+[00:02:40] ,healing,88.33,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.33,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.36,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.36,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.40,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.40,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.43,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.43,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.46,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.46,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.49,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.49,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.51,Team 2,Ana,Ana,Team 2,Symmetra,Symmetra,Primary Fire,1.50,0
+[00:02:40] ,healing,88.52,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.52,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,healing,88.56,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:40] ,healing,88.56,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.19,0
+[00:02:40] ,damage,88.57,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Secondary Fire,65.44,0,0
+[00:02:40] ,damage,88.57,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Secondary Fire,72.44,0,0
+[00:02:40] ,damage,88.57,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Secondary Fire,72.44,0,0
+[00:02:40] ,healing,88.57,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:02:40] ,healing,88.57,Team 2,Mercy,Mercy,Team 2,Bastion,Bastion,Primary Fire,0.10,0
+[00:02:41] ,ability_2_used,88.67,Team 2,Ana,Ana,0
+[00:02:41] ,damage,88.94,Team 2,Ana,Ana,Team 1,K1W1,Doomfist,Ability 2,18.75,0,0
+[00:02:41] ,healing,89.29,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.29,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:41] ,healing,89.32,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.32,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:41] ,healing,89.36,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.36,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:41] ,healing,89.39,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.39,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:41] ,healing,89.42,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.42,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:41] ,healing,89.45,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.45,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:41] ,healing,89.48,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.48,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:41] ,healing,89.52,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.52,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:41] ,healing,89.55,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.55,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:41] ,healing,89.58,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.58,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:41] ,healing,89.61,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:41] ,healing,89.61,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,89.64,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.64,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,damage,89.68,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,4.52,0,0
+[00:02:42] ,healing,89.68,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.68,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,89.71,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.71,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,89.74,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.74,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,89.77,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.77,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,89.80,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.80,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,ultimate_start,89.82,Team 1,K1W1,Doomfist,0,1
+[00:02:42] ,healing,89.84,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.84,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,89.87,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.87,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,89.90,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.90,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,89.93,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.93,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,damage,89.96,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,4.92,0,0
+[00:02:42] ,healing,89.96,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,89.96,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,damage,89.98,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,9.71,True,0
+[00:02:42] ,damage,89.98,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Primary Fire,4.84,0,0
+[00:02:42] ,healing,90.00,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.00,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.03,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.03,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.06,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.06,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.09,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.09,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.12,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.12,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.16,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.16,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.19,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.19,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.22,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.22,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.25,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.25,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.28,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.28,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.32,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.32,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.35,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.35,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.38,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.38,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.41,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.41,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,damage,90.41,Team 1,Kiriko,Kiriko,Team 2,Orisa,Orisa,0,65,0,0
+[00:02:42] ,healing,90.44,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.44,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.48,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.48,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.51,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,ability_1_used,90.51,Team 2,Mercy,Mercy,0
+[00:02:42] ,healing,90.51,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.54,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.54,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.57,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.57,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:42] ,healing,90.60,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:42] ,healing,90.60,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.64,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.64,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.67,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.67,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.70,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.70,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.73,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.73,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.76,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.76,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.80,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.80,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.83,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.83,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.86,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.86,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.89,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.89,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.91,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.47,0
+[00:02:43] ,healing,90.92,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.92,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,damage,90.96,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,18,0,0
+[00:02:43] ,healing,90.96,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.96,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,90.99,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,90.99,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.02,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.02,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.05,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.05,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.08,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.08,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.10,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.47,0
+[00:02:43] ,healing,91.12,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.12,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.15,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.15,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,damage,91.16,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,30.50,True,0
+[00:02:43] ,healing,91.18,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.18,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.21,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.21,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.24,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.24,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.28,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.28,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.29,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:43] ,healing,91.31,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.31,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,0.24,0
+[00:02:43] ,healing,91.31,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.34,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.34,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,damage,91.36,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,30.50,True,0
+[00:02:43] ,healing,91.37,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.37,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.40,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.40,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,ability_2_used,91.42,Team 2,Orisa,Orisa,0
+[00:02:43] ,healing,91.44,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.44,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.47,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.47,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.48,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:43] ,healing,91.50,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.50,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:43] ,healing,91.50,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.53,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.53,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.56,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.56,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:43] ,healing,91.60,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:43] ,healing,91.60,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.63,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.63,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.66,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.66,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.68,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:44] ,healing,91.69,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.69,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:44] ,healing,91.69,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.72,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.72,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.76,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.76,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.77,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.48,0
+[00:02:44] ,healing,91.79,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.79,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.82,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.82,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.85,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.85,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.87,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:44] ,healing,91.88,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.88,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,1.50,0
+[00:02:44] ,healing,91.88,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.92,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.92,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,91.95,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.95,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,damage,91.96,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Ultimate,71.50,0,0
+[00:02:44] ,damage,91.96,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Ultimate,96.19,0,0
+[00:02:44] ,damage,91.96,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Ultimate,93.65,0,0
+[00:02:44] ,healing,91.96,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.37,0
+[00:02:44] ,healing,91.98,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,91.98,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.01,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.01,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.04,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.04,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.06,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:44] ,healing,92.08,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.08,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.11,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.11,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.14,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.14,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.17,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.17,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.20,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.20,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.24,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.24,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.25,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:44] ,healing,92.27,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.27,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.30,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.30,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.33,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.33,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.36,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.36,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,ability_1_used,92.38,Team 1,Flameo,Bastion,0
+[00:02:44] ,healing,92.40,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.40,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.43,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.43,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.44,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:44] ,healing,92.46,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.46,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,ultimate_end,92.48,Team 1,K1W1,Doomfist,0,1
+[00:02:44] ,healing,92.49,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.49,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.52,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.52,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.56,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.56,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,healing,92.59,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.59,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:44] ,ability_1_used,92.62,Team 1,OliverKris,Sojourn,0
+[00:02:44] ,healing,92.62,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:44] ,healing,92.62,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.64,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:45] ,healing,92.65,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.65,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.68,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.68,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.72,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.72,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.75,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.75,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.78,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.78,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.81,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.81,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.83,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:45] ,healing,92.84,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.84,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.88,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.88,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.91,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.91,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.92,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,0.24,0
+[00:02:45] ,healing,92.94,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.94,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,92.97,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,92.97,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,healing,93.00,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:02:45] ,healing,93.00,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.19,0
+[00:02:45] ,ability_1_used,93.00,Team 1,Brigitte,Brigitte,0
+[00:02:45] ,damage,93.02,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,20.86,0,0
+[00:02:45] ,kill,93.02,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,20.86,0,0
+[00:02:45] ,healing,93.02,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.40,0
+[00:02:45] ,healing,93.02,Team 2,Mercy,Mercy,Team 2,Symmetra,Symmetra,Primary Fire,0.10,0
+[00:02:45] ,healing,93.12,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:45] ,healing,93.21,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.47,0
+[00:02:45] ,damage,93.29,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,0.24,0,0
+[00:02:45] ,healing,93.31,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:45] ,damage,93.32,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,0.48,0,0
+[00:02:45] ,ability_2_used,93.34,Team 1,OliverKris,Sojourn,0
+[00:02:45] ,damage,93.37,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:45] ,damage,93.39,Team 2,Orisa,Orisa,Team 1,Flameo,Bastion,Primary Fire,2.80,0,0
+[00:02:45] ,damage,93.40,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:45] ,healing,93.40,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:45] ,damage,93.44,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:45] ,damage,93.47,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:45] ,damage,93.50,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:45] ,healing,93.50,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,1.50,0
+[00:02:45] ,damage,93.52,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,2.88,0,0
+[00:02:45] ,damage,93.52,Team 2,Orisa,Orisa,Team 1,Flameo,Bastion,Primary Fire,2.80,0,0
+[00:02:45] ,damage,93.53,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:45] ,damage,93.58,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:45] ,healing,93.60,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:45] ,damage,93.61,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:45] ,damage,93.61,Team 2,Orisa,Orisa,Team 1,Flameo,Bastion,Primary Fire,2.80,0,0
+[00:02:46] ,damage,93.64,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,damage,93.68,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,damage,93.71,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,2.88,0,0
+[00:02:46] ,damage,93.71,Team 2,Orisa,Orisa,Team 1,Flameo,Bastion,Primary Fire,2.80,0,0
+[00:02:46] ,damage,93.74,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,healing,93.79,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:46] ,healing,93.84,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,0.24,0
+[00:02:46] ,damage,93.87,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,damage,93.87,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Primary Fire,6.25,0,0
+[00:02:46] ,damage,93.90,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,damage,93.90,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,2.88,0,0
+[00:02:46] ,healing,93.98,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:46] ,healing,94.03,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:46] ,damage,94.04,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,damage,94.08,Team 2,Bastion,Bastion,Team 1,K1W1,Doomfist,Primary Fire,6.25,0,0
+[00:02:46] ,damage,94.09,Team 2,Symmetra,Symmetra,Team 1,K1W1,Doomfist,Primary Fire,2.64,0,0
+[00:02:46] ,damage,94.11,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,damage,94.11,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Secondary Fire,55.96,0,0
+[00:02:46] ,damage,94.11,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Secondary Fire,104.16,0,0
+[00:02:46] ,kill,94.11,Team 1,K1W1,Doomfist,Team 2,Symmetra,Symmetra,Secondary Fire,55.96,0,0
+[00:02:46] ,damage,94.17,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Secondary Fire,54.99,0,0
+[00:02:46] ,healing,94.17,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:46] ,ability_1_used,94.19,Team 2,Orisa,Orisa,0
+[00:02:46] ,healing,94.22,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,2.88,0
+[00:02:46] ,healing,94.25,Team 1,Kiriko,Kiriko,Team 1,Flameo,Bastion,0,11.20,0
+[00:02:46] ,damage,94.27,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6.60,0,0
+[00:02:46] ,damage,94.30,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6.60,0,0
+[00:02:46] ,damage,94.33,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6.60,0,0
+[00:02:46] ,healing,94.36,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:46] ,damage,94.38,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6.60,0,0
+[00:02:46] ,damage,94.38,Team 2,Orisa,Orisa,Team 1,Flameo,Bastion,Primary Fire,2.80,0,0
+[00:02:46] ,damage,94.38,Team 1,Brigitte,Brigitte,Team 2,Orisa,Orisa,Primary Fire,46.20,0,0
+[00:02:46] ,damage,94.41,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,healing,94.41,Team 2,Ana,Ana,Team 2,Bastion,Bastion,Primary Fire,1.50,0
+[00:02:46] ,damage,94.41,Team 2,Orisa,Orisa,Team 1,Kiriko,Kiriko,Primary Fire,2.80,0,0
+[00:02:46] ,damage,94.41,Team 1,Kiriko,Kiriko,Team 2,Orisa,Orisa,0,33.50,0,0
+[00:02:46] ,damage,94.44,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,damage,94.48,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,damage,94.51,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,damage,94.54,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:46] ,healing,94.54,Team 1,Brigitte,Brigitte,Team 1,Flameo,Bastion,0,2.64,0
+[00:02:46] ,healing,94.54,Team 1,Brigitte,Brigitte,Team 1,Kiriko,Kiriko,0,2.40,0
+[00:02:46] ,damage,94.54,Team 1,Kiriko,Kiriko,Team 2,Orisa,Orisa,Melee,20,0,0
+[00:02:46] ,healing,94.56,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:46] ,damage,94.57,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:47] ,damage,94.64,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,9.32,0,0
+[00:02:47] ,kill,94.64,Team 1,K1W1,Doomfist,Team 2,Bastion,Bastion,Primary Fire,9.32,0,0
+[00:02:47] ,healing,94.73,Team 1,Brigitte,Brigitte,Team 1,Flameo,Bastion,0,0.16,0
+[00:02:47] ,damage,94.73,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6,0,0
+[00:02:47] ,healing,94.73,Team 1,Brigitte,Brigitte,Team 1,Kiriko,Kiriko,0,0.40,0
+[00:02:47] ,healing,94.75,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:47] ,damage,94.78,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6.60,0,0
+[00:02:47] ,damage,94.81,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6.60,0,0
+[00:02:47] ,damage,94.84,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6.60,0,0
+[00:02:47] ,healing,94.94,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:47] ,healing,95.13,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:47] ,damage,95.18,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,6.60,0,0
+[00:02:47] ,damage,95.18,Team 2,Orisa,Orisa,Team 1,Brigitte,Brigitte,Melee,8,0,0
+[00:02:47] ,damage,95.26,Team 1,Kiriko,Kiriko,Team 2,Orisa,Orisa,0,39.60,0,0
+[00:02:47] ,healing,95.31,Team 1,Brigitte,Brigitte,Team 1,Brigitte,Brigitte,0,2.88,0
+[00:02:47] ,healing,95.32,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:47] ,ability_1_used,95.34,Team 1,K1W1,Doomfist,0
+[00:02:47] ,damage,95.37,Team 1,Brigitte,Brigitte,Team 2,Orisa,Orisa,Primary Fire,29.70,0,0
+[00:02:47] ,healing,95.50,Team 1,Brigitte,Brigitte,Team 1,Brigitte,Brigitte,0,2.64,0
+[00:02:47] ,healing,95.52,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.43,0
+[00:02:48] ,damage,95.68,Team 1,K1W1,Doomfist,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:02:48] ,healing,95.69,Team 1,Brigitte,Brigitte,Team 1,Brigitte,Brigitte,0,2.48,0
+[00:02:48] ,healing,95.71,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.40,0
+[00:02:48] ,healing,95.90,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.47,0
+[00:02:48] ,damage,95.92,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:02:48] ,damage,95.93,Team 1,Brigitte,Brigitte,Team 2,Orisa,Orisa,Primary Fire,29.70,0,0
+[00:02:48] ,damage,95.95,Team 1,Flameo,Bastion,Team 2,Ana,Ana,Primary Fire,12,0,0
+[00:02:48] ,healing,95.95,Team 2,Ana,Ana,Team 2,Ana,Ana,0,0.07,0
+[00:02:48] ,damage,95.98,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:02:48] ,damage,96.08,Team 1,Kiriko,Kiriko,Team 2,Ana,Ana,0,72,0,0
+[00:02:48] ,damage,96.11,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:02:48] ,damage,96.14,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Ability 1,50,0,0
+[00:02:48] ,damage,96.19,Team 2,Orisa,Orisa,Team 1,Brigitte,Brigitte,Secondary Fire,14,0,0
+[00:02:48] ,healing,96.28,Team 1,Brigitte,Brigitte,Team 1,Brigitte,Brigitte,0,2.88,0
+[00:02:48] ,damage,96.33,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,18,True,0
+[00:02:48] ,damage,96.36,Team 1,K1W1,Doomfist,Team 2,Orisa,Orisa,Ability 1,2.70,0,0
+[00:02:48] ,kill,96.36,Team 1,K1W1,Doomfist,Team 2,Orisa,Orisa,Ability 1,2.70,0,0
+[00:02:48] ,damage,96.40,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,18,True,0
+[00:02:48] ,healing,96.48,Team 1,Brigitte,Brigitte,Team 1,Brigitte,Brigitte,0,2.88,0
+[00:02:48] ,defensive_assist,96.51,Team 1,Kiriko,Kiriko,0
+[00:02:48] ,damage,96.57,Team 1,Flameo,Bastion,Team 2,Ana,Ana,Primary Fire,12,0,0
+[00:02:48] ,damage,96.60,Team 1,Flameo,Bastion,Team 2,Ana,Ana,Primary Fire,12,0,0
+[00:02:49] ,damage,96.64,Team 1,Flameo,Bastion,Team 2,Ana,Ana,Primary Fire,12,0,0
+[00:02:49] ,healing,96.67,Team 1,Brigitte,Brigitte,Team 1,Brigitte,Brigitte,0,2.64,0
+[00:02:49] ,kill,96.68,Team 1,Kiriko,Kiriko,Team 2,Ana,Ana,0,5.81,True,0
+[00:02:49] ,damage,96.68,Team 1,Kiriko,Kiriko,Team 2,Ana,Ana,0,5.81,True,0
+[00:02:49] ,offensive_assist,96.83,Team 1,Brigitte,Brigitte,0
+[00:02:49] ,defensive_assist,96.83,Team 1,Brigitte,Brigitte,0
+[00:02:49] ,defensive_assist,96.83,Team 1,Brigitte,Brigitte,0
+[00:02:49] ,healing,96.86,Team 1,Brigitte,Brigitte,Team 1,Brigitte,Brigitte,0,2.88,0
+[00:02:49] ,defensive_assist,96.96,Team 1,Kiriko,Kiriko,0
+[00:02:49] ,healing,97.05,Team 1,Brigitte,Brigitte,Team 1,Brigitte,Brigitte,0,2.72,0
+[00:03:03] ,damage,111.16,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:03] ,ability_1_used,111.18,Team 2,Mercy,Mercy,0
+[00:03:03] ,damage,111.21,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:03] ,ability_1_used,111.21,Team 2,Mercy,Mercy,0
+[00:03:03] ,ability_1_used,111.24,Team 2,Mercy,Mercy,0
+[00:03:03] ,damage,111.27,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:03] ,ability_1_used,111.27,Team 2,Mercy,Mercy,0
+[00:03:03] ,damage,111.34,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:03] ,damage,111.40,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:03] ,damage,111.47,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:03] ,damage,111.51,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:03] ,damage,111.58,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:04] ,damage,111.64,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:04] ,damage,111.71,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:04] ,damage,111.77,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:04] ,healing,111.82,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,0.20,0
+[00:03:04] ,damage,111.83,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:04] ,damage,111.88,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:04] ,damage,111.95,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:04] ,damage,112.01,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:04] ,healing,112.01,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.45,0
+[00:03:04] ,damage,112.07,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:04] ,damage,112.14,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:04] ,damage,112.20,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:04] ,healing,112.20,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.45,0
+[00:03:04] ,damage,112.25,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:04] ,damage,112.35,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Secondary Fire,113,0,0
+[00:03:04] ,damage,112.38,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:04] ,healing,112.39,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,1.28,0
+[00:03:04] ,damage,112.44,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:04] ,healing,112.46,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:04] ,damage,112.49,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:04] ,healing,112.49,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:04] ,healing,112.52,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:04] ,healing,112.55,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:04] ,healing,112.59,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:04] ,healing,112.62,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,112.65,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,112.68,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,112.71,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,112.75,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,112.78,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,112.81,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,112.84,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,ability_2_used,112.84,Team 2,Orisa,Orisa,0
+[00:03:05] ,healing,112.87,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,112.91,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,112.94,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,112.97,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.00,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.03,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.07,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.10,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.13,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.16,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.19,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.23,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.26,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.29,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.32,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.35,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,ability_1_used,113.39,Team 2,Ana,Ana,0
+[00:03:05] ,healing,113.39,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.42,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.45,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.48,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.51,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.55,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.58,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:05] ,healing,113.61,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.64,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.67,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,ability_1_used,113.71,Team 2,Mercy,Mercy,0
+[00:03:06] ,healing,113.71,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.74,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.77,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.80,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.83,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.87,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.90,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.93,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.96,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,113.99,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.03,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.06,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.09,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.12,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.15,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.19,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.22,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.25,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.28,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.31,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.35,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.38,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.41,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.44,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.47,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.51,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.54,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.57,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:06] ,healing,114.60,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.63,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.67,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.70,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,0.20,0
+[00:03:07] ,healing,114.70,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.73,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.76,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.79,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.83,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.86,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.89,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.89,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.45,0
+[00:03:07] ,healing,114.92,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.95,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,114.99,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.02,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.05,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.08,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.45,0
+[00:03:07] ,healing,115.08,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.11,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.15,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.18,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,damage,115.19,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:07] ,healing,115.21,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,damage,115.24,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:07] ,healing,115.24,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.27,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.27,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,1.28,0
+[00:03:07] ,damage,115.29,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:07] ,healing,115.31,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.34,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,damage,115.35,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:07] ,healing,115.37,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.40,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,damage,115.42,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:07] ,healing,115.43,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.47,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,damage,115.48,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:07] ,healing,115.50,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.51,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,0.20,0
+[00:03:07] ,damage,115.53,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:07] ,healing,115.53,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,healing,115.56,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,damage,115.59,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:07] ,healing,115.59,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:07] ,ability_1_used,115.59,Team 2,Orisa,Orisa,0
+[00:03:08] ,healing,115.63,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,damage,115.66,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:03:08] ,healing,115.66,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,115.69,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,115.71,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.45,0
+[00:03:08] ,damage,115.72,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:03:08] ,healing,115.72,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,115.75,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,damage,115.79,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:03:08] ,healing,115.79,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,115.82,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,damage,115.85,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:03:08] ,ability_1_used,115.85,Team 1,OliverKris,Sojourn,0
+[00:03:08] ,healing,115.85,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,115.88,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,115.90,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.45,0
+[00:03:08] ,healing,115.91,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,115.95,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,damage,115.96,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:03:08] ,healing,115.98,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.01,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,damage,116.03,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:03:08] ,damage,116.03,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Secondary Fire,60.50,0,0
+[00:03:08] ,healing,116.04,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.07,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,damage,116.09,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.95,0,0
+[00:03:08] ,healing,116.09,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,1.28,0
+[00:03:08] ,healing,116.11,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.14,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.17,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.20,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.23,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.27,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,ability_1_used,116.28,Team 2,Mercy,Mercy,0
+[00:03:08] ,healing,116.30,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.33,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,damage,116.36,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,3,0,0
+[00:03:08] ,healing,116.36,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:08] ,healing,116.36,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.39,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:08] ,healing,116.39,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.43,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:08] ,ability_1_used,116.43,Team 2,Mercy,Mercy,0
+[00:03:08] ,healing,116.43,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,ability_2_used,116.44,Team 1,OliverKris,Sojourn,0
+[00:03:08] ,damage,116.44,Team 1,K1W1,Doomfist,Team 2,Torbjörn,Torbjörn,Primary Fire,0.75,0,0
+[00:03:08] ,healing,116.46,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:08] ,healing,116.46,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.49,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:08] ,healing,116.49,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.52,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:08] ,healing,116.52,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.55,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:08] ,healing,116.55,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.59,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:08] ,healing,116.59,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:08] ,healing,116.62,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:08] ,healing,116.62,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,116.65,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.65,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,116.68,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.68,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,116.71,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.71,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,damage,116.75,Team 1,K1W1,Doomfist,Team 2,Torbjörn,Torbjörn,Primary Fire,0.75,0,0
+[00:03:09] ,damage,116.75,Team 1,K1W1,Doomfist,Team 2,Torbjörn,Torbjörn,Primary Fire,1.50,True,0
+[00:03:09] ,healing,116.75,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.75,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,116.78,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.78,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,116.81,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.81,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,116.84,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.84,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,116.87,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.87,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,116.91,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.91,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,116.94,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.94,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,116.97,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,116.97,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,damage,117.00,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,1.50,0,0
+[00:03:09] ,healing,117.00,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.00,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,damage,117.02,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,1.50,0,0
+[00:03:09] ,healing,117.03,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.03,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,damage,117.05,Team 1,K1W1,Doomfist,Team 2,Torbjörn,Torbjörn,Primary Fire,1.50,0,0
+[00:03:09] ,healing,117.07,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.07,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.10,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.10,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.13,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.13,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.16,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.16,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.19,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.19,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.23,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.23,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.26,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.26,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.29,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.29,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.32,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.32,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,damage,117.34,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Primary Fire,9,0,0
+[00:03:09] ,healing,117.35,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.35,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.39,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.39,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,damage,117.40,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Primary Fire,9,0,0
+[00:03:09] ,healing,117.42,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.42,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,damage,117.43,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:03:09] ,healing,117.45,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.45,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.48,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.48,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,damage,117.50,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:03:09] ,healing,117.51,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.51,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.55,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.55,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,damage,117.58,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:03:09] ,healing,117.58,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.58,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:09] ,healing,117.61,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:09] ,healing,117.61,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,117.63,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:03:10] ,damage,117.63,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Ability 2,1.28,0,0
+[00:03:10] ,damage,117.63,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Ability 2,1.28,0,0
+[00:03:10] ,damage,117.63,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Ability 2,1.28,0,0
+[00:03:10] ,healing,117.64,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.64,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,117.66,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Ability 2,2.56,0,0
+[00:03:10] ,damage,117.66,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Ability 2,2.56,0,0
+[00:03:10] ,damage,117.66,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Ability 2,2.56,0,0
+[00:03:10] ,healing,117.67,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.67,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,ability_1_used,117.69,Team 1,K1W1,Doomfist,0
+[00:03:10] ,damage,117.71,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Primary Fire,4.50,0,0
+[00:03:10] ,healing,117.71,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.71,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,117.74,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Ability 2,5.12,0,0
+[00:03:10] ,healing,117.74,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.74,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,117.77,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Primary Fire,4.50,0,0
+[00:03:10] ,healing,117.77,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.77,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,healing,117.80,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.80,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,117.83,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Primary Fire,4.50,0,0
+[00:03:10] ,healing,117.83,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.83,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,117.85,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Ability 2,15.36,0,0
+[00:03:10] ,damage,117.85,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Ability 2,15.36,0,0
+[00:03:10] ,healing,117.87,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.87,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,117.88,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:03:10] ,healing,117.90,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.90,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,healing,117.93,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.93,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,117.95,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Primary Fire,4.50,0,0
+[00:03:10] ,damage,117.96,Team 1,K1W1,Doomfist,Team 2,Sombra,Sombra,Primary Fire,3.28,True,0
+[00:03:10] ,healing,117.96,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.96,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Primary Fire,0.24,0
+[00:03:10] ,healing,117.96,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,117.98,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,18,True,0
+[00:03:10] ,damage,117.98,Team 1,K1W1,Doomfist,Team 2,Torbjörn,Torbjörn,Primary Fire,0.76,0,0
+[00:03:10] ,damage,117.98,Team 1,K1W1,Doomfist,Team 2,Sombra,Sombra,Primary Fire,1.58,0,0
+[00:03:10] ,healing,117.99,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,117.99,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,healing,118.03,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,118.03,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,118.04,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Ability 2,15.36,0,0
+[00:03:10] ,damage,118.04,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Ability 2,15.36,0,0
+[00:03:10] ,healing,118.06,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,118.06,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,healing,118.09,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,118.09,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,118.12,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Primary Fire,11,True,0
+[00:03:10] ,healing,118.12,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,118.12,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,healing,118.15,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Primary Fire,2.39,0
+[00:03:10] ,healing,118.15,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,118.19,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Primary Fire,11,True,0
+[00:03:10] ,healing,118.19,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,healing,118.22,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,118.23,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Ability 2,14.08,0,0
+[00:03:10] ,damage,118.23,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Ability 2,15.36,0,0
+[00:03:10] ,damage,118.25,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Primary Fire,18,True,0
+[00:03:10] ,healing,118.25,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,healing,118.28,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,118.31,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Primary Fire,9,0,0
+[00:03:10] ,healing,118.31,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,118.33,Team 1,OliverKris,Sojourn,Team 2,Torbjörn,Torbjörn,Secondary Fire,120,0,0
+[00:03:10] ,healing,118.35,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,damage,118.38,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Primary Fire,9,0,0
+[00:03:10] ,healing,118.38,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:10] ,healing,118.41,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.08,0
+[00:03:10] ,damage,118.43,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Ability 2,14.08,0,0
+[00:03:10] ,damage,118.44,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Primary Fire,9,0,0
+[00:03:10] ,damage,118.51,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Primary Fire,9,0,0
+[00:03:10] ,damage,118.55,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Ability 1,50,0,0
+[00:03:10] ,damage,118.59,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Ability 1,50,0,0
+[00:03:10] ,damage,118.62,Team 1,K1W1,Doomfist,Team 2,Torbjörn,Torbjörn,Ability 1,50,0,0
+[00:03:10] ,healing,118.62,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:10] ,healing,118.62,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,damage,118.63,Team 1,K1W1,Doomfist,Team 2,Sombra,Sombra,Ability 1,50,0,0
+[00:03:11] ,healing,118.65,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,118.65,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,118.68,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,118.68,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,118.71,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,118.71,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,118.75,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,118.75,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,118.78,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,118.78,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,118.81,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,118.81,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,118.84,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,118.84,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,118.87,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,118.87,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,118.91,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,ability_2_used,118.91,Team 2,Ana,Ana,0
+[00:03:11] ,healing,118.91,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,118.94,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,118.94,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,118.97,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,118.97,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,119.00,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,119.00,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,healing,119.03,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,119.03,Team 2,Mercy,Mercy,Team 2,Torbjörn,Torbjörn,Primary Fire,0.13,0
+[00:03:11] ,damage,119.07,Team 1,Flameo,Bastion,Team 2,Torbjörn,Torbjörn,Primary Fire,10.99,0,0
+[00:03:11] ,kill,119.07,Team 1,Flameo,Bastion,Team 2,Torbjörn,Torbjörn,Primary Fire,10.99,0,0
+[00:03:11] ,ability_2_used,119.11,Team 2,Sombra,Sombra,0
+[00:03:11] ,damage,119.21,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:03:11] ,damage,119.26,Team 1,OliverKris,Sojourn,Team 2,Ana,Ana,Primary Fire,9,0,0
+[00:03:11] ,healing,119.26,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,119.26,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.13,0
+[00:03:11] ,healing,119.29,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,119.29,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.13,0
+[00:03:11] ,damage,119.32,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Secondary Fire,61.44,0,0
+[00:03:11] ,damage,119.32,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Secondary Fire,61.44,0,0
+[00:03:11] ,healing,119.32,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:11] ,healing,119.32,Team 2,Mercy,Mercy,Team 2,Ana,Ana,Primary Fire,0.13,0
+[00:03:11] ,damage,119.47,Team 1,Flameo,Bastion,Team 2,Ana,Ana,Primary Fire,46.01,True,0
+[00:03:11] ,kill,119.47,Team 1,Flameo,Bastion,Team 2,Ana,Ana,Primary Fire,46.01,True,0
+[00:03:11] ,damage,119.53,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Primary Fire,18,True,0
+[00:03:11] ,damage,119.59,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Primary Fire,9,0,0
+[00:03:12] ,damage,119.66,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Primary Fire,9,0,0
+[00:03:12] ,damage,119.93,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,10,True,0
+[00:03:12] ,healing,120.01,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.01,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.04,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.04,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.07,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.07,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.11,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.11,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.14,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.14,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.17,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.17,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.20,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.20,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.23,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.23,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.27,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.27,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.30,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.30,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.33,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.33,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.36,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.36,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.39,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.39,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.43,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.43,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.46,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.46,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.49,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.49,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,healing,120.52,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:12] ,healing,120.52,Team 2,Mercy,Mercy,Team 2,Sombra,Sombra,Primary Fire,0.13,0
+[00:03:12] ,damage,120.55,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,10,True,0
+[00:03:12] ,damage,120.55,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,45,0,0
+[00:03:13] ,damage,120.91,Team 1,Kiriko,Kiriko,Team 2,Orisa,Orisa,0,65,0,0
+[00:03:13] ,damage,120.95,Team 1,OliverKris,Sojourn,Team 2,Sombra,Sombra,Primary Fire,9,0,0
+[00:03:13] ,damage,120.97,Team 1,Flameo,Bastion,Team 2,Sombra,Sombra,Primary Fire,18.42,0,0
+[00:03:13] ,kill,120.97,Team 1,Flameo,Bastion,Team 2,Sombra,Sombra,Primary Fire,18.42,0,0
+[00:03:13] ,damage,121.03,Team 2,Mercy,Mercy,Team 1,K1W1,Doomfist,Primary Fire,5,0,0
+[00:03:13] ,damage,121.16,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,48.75,True,0
+[00:03:13] ,kill,121.16,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,48.75,True,0
+[00:03:13] ,damage,121.40,Team 1,Kiriko,Kiriko,Team 2,Orisa,Orisa,0,72,0,0
+[00:03:14] ,kill,121.95,Team 1,Kiriko,Kiriko,Team 2,Orisa,Orisa,0,69.56,True,0
+[00:03:14] ,damage,121.95,Team 1,Kiriko,Kiriko,Team 2,Orisa,Orisa,0,69.56,True,0
+[00:03:14] ,ability_1_used,122.57,Team 1,Flameo,Bastion,0
+[00:03:28] ,ability_2_used,136.54,Team 1,OliverKris,Sojourn,0
+[00:03:31] ,ability_1_used,138.64,Team 1,K1W1,Doomfist,0
+[00:03:33] ,damage,141.57,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:33] ,damage,141.61,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:34] ,damage,141.68,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:34] ,damage,141.76,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,4.50,0,0
+[00:03:34] ,healing,141.78,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,141.81,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,141.82,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:34] ,healing,141.84,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,141.87,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:34] ,healing,141.87,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,141.90,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,141.92,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,18,0,0
+[00:03:34] ,damage,141.94,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:34] ,healing,141.94,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,141.97,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,142.00,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:34] ,healing,142.00,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.03,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,142.06,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:34] ,healing,142.06,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.10,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,142.13,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:34] ,healing,142.13,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.16,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.19,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.22,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,142.24,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Secondary Fire,143,True,0
+[00:03:34] ,healing,142.26,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,142.29,Team 1,K1W1,Doomfist,Team 2,Mercy,Mercy,Primary Fire,27.13,0,0
+[00:03:34] ,healing,142.29,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.29,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,142.30,Team 1,OliverKris,Sojourn,Team 2,Orisa,Orisa,Primary Fire,9,True,0
+[00:03:34] ,healing,142.32,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.32,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.35,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.35,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.38,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.38,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.42,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.42,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,ability_1_used,142.43,Team 1,Brigitte,Brigitte,0
+[00:03:34] ,healing,142.45,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.45,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.48,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.48,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.51,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.51,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,142.54,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Secondary Fire,8,0,0
+[00:03:34] ,healing,142.54,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.54,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,healing,142.58,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.58,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:34] ,damage,142.59,Team 1,K1W1,Doomfist,Team 2,Ana,Ana,Primary Fire,4.66,0,0
+[00:03:34] ,healing,142.61,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:34] ,healing,142.61,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,142.64,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.64,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,142.67,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.67,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,142.69,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,0.20,0
+[00:03:35] ,healing,142.70,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.70,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,142.74,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,ability_1_used,142.74,Team 2,Mercy,Mercy,0
+[00:03:35] ,healing,142.74,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,damage,142.75,Team 1,Brigitte,Brigitte,Team 2,Orisa,Orisa,Ability 1,77,0,0
+[00:03:35] ,healing,142.77,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.77,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,142.80,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.80,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,142.83,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.83,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,142.86,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.86,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,damage,142.88,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Secondary Fire,100,0,0
+[00:03:35] ,damage,142.88,Team 1,Flameo,Bastion,Team 2,Orisa,Orisa,Primary Fire,25,0,0
+[00:03:35] ,healing,142.88,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.45,0
+[00:03:35] ,healing,142.90,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.90,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,142.93,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.93,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,ability_2_used,142.94,Team 2,Orisa,Orisa,0
+[00:03:35] ,healing,142.96,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.96,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,142.99,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,142.99,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.02,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.02,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.06,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.06,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.07,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,2.45,0
+[00:03:35] ,healing,143.09,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.09,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.12,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.12,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.15,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.15,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.18,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.18,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,damage,143.22,Team 1,K1W1,Doomfist,Team 2,Sombra,Sombra,Primary Fire,5,0,0
+[00:03:35] ,healing,143.22,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.22,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,damage,143.23,Team 1,K1W1,Doomfist,Team 2,Sombra,Sombra,Primary Fire,10,0,0
+[00:03:35] ,damage,143.23,Team 1,K1W1,Doomfist,Team 2,Sombra,Sombra,Primary Fire,10,True,0
+[00:03:35] ,healing,143.25,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.25,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.26,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Primary Fire,1.27,0
+[00:03:35] ,healing,143.28,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.28,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.31,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.31,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.34,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.34,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.38,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.38,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.41,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.41,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.44,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.44,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.47,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.01,0
+[00:03:35] ,healing,143.47,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,damage,143.49,Team 1,Flameo,Bastion,Team 2,Mercy,Mercy,Primary Fire,25,0,0
+[00:03:35] ,healing,143.50,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:03:35] ,ability_2_used,143.50,Team 2,Ana,Ana,0
+[00:03:35] ,healing,143.50,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,healing,143.54,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:03:35] ,healing,143.54,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,damage,143.57,Team 1,K1W1,Doomfist,Team 2,Sombra,Sombra,Primary Fire,20,0,0
+[00:03:35] ,healing,143.57,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:03:35] ,healing,143.57,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:35] ,damage,143.58,Team 1,K1W1,Doomfist,Team 2,Sombra,Sombra,Primary Fire,5,0,0
+[00:03:35] ,damage,143.58,Team 1,K1W1,Doomfist,Team 2,Sombra,Sombra,Primary Fire,10,True,0
+[00:03:35] ,healing,143.58,Team 2,Ana,Ana,Team 2,Mercy,Mercy,Ability 2,5.25,0
+[00:03:35] ,healing,143.58,Team 2,Ana,Ana,Team 2,Ana,Ana,Ability 2,4.66,0
+[00:03:35] ,healing,143.58,Team 2,Ana,Ana,Team 2,Orisa,Orisa,Ability 2,6.38,0
+[00:03:35] ,healing,143.60,Team 2,Mercy,Mercy,Team 2,Mercy,Mercy,0,0.00,0
+[00:03:35] ,healing,143.60,Team 2,Mercy,Mercy,Team 2,Orisa,Orisa,Primary Fire,0.16,0
+[00:03:36] ,player_stat,143.62,1,Team 1,Flameo,Bastion,9,5,0,1117.56,0,1117.56,0,14.00,0,143,0,0,0,0,0,2,4,0,5,0,0,3,0.03,0,0,0,277,101,162,0,0,0.38,143.62
+[00:03:36] ,player_stat,143.62,1,Team 1,OliverKris,Sojourn,11,1,0,1992.75,0,1992.75,0,12.21,0,29.21,0,0,0,0,0,2,5,0,4,0,0,49,0.35,0,0,0,317,142,128,0,0,0.53,143.62
+[00:03:36] ,player_stat,143.62,1,Team 2,Sombra,Symmetra,0,0,3,24.24,0,24.24,0,75.56,0,900.56,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,1,5,0,0,0.17,143.62
+[00:03:36] ,round_end,143.62,1,Team 2,0,0,0,0,0,456.39
+[00:03:36] ,match_end,143.62,1,0,0
+[00:03:36] ,player_stat,143.62,1,Team 1,K1W1,Doomfist,17,10,0,3232.53,0,3232.53,0,6.25,0,119.29,0,0,0,1,1,3,5,8,2,0,0,50,0.22,0,0,0,715,224,481,0,0,0.32,143.62
+[00:03:36] ,player_stat,143.62,1,Team 2,Mercy,Mercy,0,0,4,5,0,5,153.71,171.13,5.00,1122.74,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,143.62
+[00:03:36] ,player_stat,143.62,1,Team 2,Ana,Ana,0,0,4,18.75,0,18.75,159.12,14.19,4.66,1030.13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,21,12,0,0,0.64,143.62
+[00:03:36] ,player_stat,143.62,1,Team 2,Torbjörn,Bastion,0,0,3,72.50,0,72.50,0,82.47,0,1132.47,0,0,0,0,0,0,0,0,0,0,0,4,0.40,0,0,0,32,10,21,0,0,0.32,143.62
+[00:03:36] ,player_stat,143.62,1,Team 2,Orisa,Orisa,0,0,4,66.80,0,66.80,0,114.32,0,2539.25,0,0,0,0,0,0,0,0,0,0,0,3,0.21,0,0,0,61,14,46,0,0,0.23,143.62
+[00:03:36] ,player_stat,143.62,1,Team 1,Kiriko,Kiriko,6,3,0,707.38,0,707.38,29.66,2.80,0,2.80,0,3,0,0,0,0,0,1,4,0,0,7,0.58,0,0,0,22,12,5,0,0,0.71,143.62
+[00:03:36] ,player_stat,143.62,1,Team 1,Brigitte,Brigitte,2,1,0,264.10,0,264.10,27.60,22,22,22,0,2,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,143.62

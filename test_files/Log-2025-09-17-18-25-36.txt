@@ -1,0 +1,30 @@
+[00:00:00] ,match_start,0,Lijiang Tower,Control,Team 1,Team 2
+[00:00:00] ,hero_spawn,0,Team 2,Brigitte,Brigitte,0,0
+[00:00:00] ,hero_spawn,0,Team 2,Baptiste,Baptiste,0,0
+[00:00:00] ,hero_spawn,0,Team 2,Hanzo,Hanzo,0,0
+[00:00:00] ,hero_spawn,0,Team 2,Mei,Mei,0,0
+[00:00:00] ,hero_spawn,0,Team 2,Reinhardt,Reinhardt,0,0
+[00:00:00] ,hero_spawn,0,Team 1,Mercy,Mercy,0,0
+[00:00:00] ,hero_spawn,0,Team 1,Symmetra,Symmetra,0,0
+[00:00:00] ,hero_spawn,0,Team 1,Hanzo,Hanzo,0,0
+[00:00:00] ,hero_spawn,0,Team 1,Junker Queen,Junker Queen,0,0
+[00:00:35] ,round_start,0,1,Team 2,0,0,0
+[00:00:44] ,hero_spawn,0,Team 1,OliverKris,Tracer,0,0
+[00:01:05] ,setup_complete,0,1,29.99
+[00:01:27] ,kill,22.50,Team 1,OliverKris,Tracer,Team 2,Baptiste,Baptiste,Primary Fire,1.45,0,0
+[00:01:31] ,kill,26.69,Team 1,OliverKris,Tracer,Team 2,Hanzo,Hanzo,Primary Fire,5.37,0,0
+[00:01:35] ,kill,30.26,Team 1,Hanzo,Hanzo,Team 2,Brigitte,Brigitte,Ability 2,5.56,0,0
+[00:01:35] ,offensive_assist,30.67,Team 1,Mercy,Mercy,0
+[00:01:35] ,defensive_assist,30.67,Team 1,Mercy,Mercy,0
+[00:01:43] ,kill,38.10,Team 1,OliverKris,Tracer,Team 2,Reinhardt,Reinhardt,Primary Fire,2.98,0,0
+[00:01:43] ,defensive_assist,38.18,Team 1,Mercy,Mercy,0
+[00:01:47] ,kill,42.13,Team 1,Hanzo,Hanzo,Team 2,Mei,Mei,Primary Fire,19.84,0,0
+[00:01:47] ,defensive_assist,42.40,Team 1,Mercy,Mercy,0
+[00:01:48] ,point_progress,43.47,1,Team 2,0,33.97
+[00:01:49] ,point_progress,44.80,1,Team 2,0,67.18
+[00:01:53] ,ultimate_charged,48.72,Team 1,OliverKris,Tracer,0,1
+[00:01:56] ,kill,51.26,Team 1,OliverKris,Tracer,Team 2,Baptiste,Baptiste,Primary Fire,0.46,0,0
+[00:01:58] ,ultimate_start,53.45,Team 1,OliverKris,Tracer,0,1
+[00:01:58] ,ultimate_end,53.65,Team 1,OliverKris,Tracer,0,1
+[00:01:59] ,kill,54.56,Team 1,OliverKris,Tracer,Team 2,Brigitte,Brigitte,Ultimate,201.30,0,0
+[00:02:02] ,kill,56.99,Team 1,OliverKris,Tracer,Team 1,OliverKris,Tracer,0,146.25,0,True

@@ -1,5 +1,10 @@
 # event_handler.py
 
+"""
+This file contains all the event handling passed in by the parser. It contains a
+dispatch function that routes event requests to their specific event handler.
+"""
+
 from mappings.event_mapping import EVENT_TYPE_MAP
 from events.match_events import MatchStartEvent, MatchEndEvent
 # from events.round_events import RoundStartEvent, RoundEndEvent
@@ -21,7 +26,7 @@ def register(event_cls):
 
 # --- Category-based default handlers ---
 def handle_match_event(event, context):
-    match = context.get("match")
+    match = context["match"]
     event_name =  event.__class__.__name__
     match event_name:
         case "MatchStartEvent":
@@ -32,7 +37,7 @@ def handle_match_event(event, context):
                 match.end_match(event)
 
 def handle_round_event(event, context):
-    match = context.get("match")
+    match = context["match"]
     if match:
         match.add_event(event)
     event_name = event.__class__.__name__
@@ -50,6 +55,17 @@ def handle_combat_event(event, context):
     return
 
 def handle_player_event(event, context):
+    match = context["match"]
+    if match:
+        match.add_event(event)
+    event_name =  event.__class__.__name__
+    match event_name:
+        case "PlayerStatEvent":
+            return
+        case "HeroSpawnEvent":
+            
+        case "HeroSwapEvent":
+            return
     return
 
 def handle_objective_event(event, context):

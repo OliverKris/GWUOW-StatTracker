@@ -1,7 +1,7 @@
 # match.py
 
 from events.match_events import MatchStartEvent, MatchEndEvent
-from timeline import Timeline
+from match.timeline import Timeline
 
 class Match:
     def __init__(self, start_event: MatchStartEvent):

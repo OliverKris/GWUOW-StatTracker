@@ -92,3 +92,10 @@ class PlayerStats:
             self.scoped_shots_hit = event.scoped_shots_hit
             self.weapon_accuracy = event.weapon_accuracy
             self.hero_time_played = event.hero_time_played
+
+class Player:
+    def __init__(self, name, team):
+        self.name = name
+        self.team = team
+        self.heroes_played = {} # round_number -> list of heroes used
+        self.stats = {} # round_number -> stats object

@@ -1,0 +1,295 @@
+[00:00:00] ,match_start,0,Busan,Control,Team 1,Team 2
+[00:00:01] ,round_start,0,1,0,0,0,0
+[00:00:07] ,hero_spawn,0,Team 2,drummr,Genji,0,0
+[00:00:09] ,hero_spawn,0,Team 2,Ronbot,Junker Queen,0,0
+[00:00:12] ,hero_spawn,0,Team 2,hachiko,Ana,0,0
+[00:00:12] ,hero_swap,0,Team 2,Ronbot,Winston,Junker Queen,0
+[00:00:13] ,hero_spawn,0,Team 1,Flameo,Tracer,0,0
+[00:00:13] ,hero_spawn,0,Team 2,atha,Kiriko,0,0
+[00:00:17] ,hero_spawn,0,Team 1,THINMINT,Kiriko,0,0
+[00:00:20] ,hero_spawn,0,Team 2,Diamond,Soldier: 76,0,0
+[00:00:25] ,hero_spawn,0,Team 1,BruhDerpi,Winston,0,0
+[00:00:31] ,hero_spawn,0,Team 1,K1W1,Wuyang,0,0
+[00:00:45] ,hero_swap,0,Team 1,Flameo,Genji,Tracer,0
+[00:01:17] ,hero_spawn,0,Team 1,OliverKris,Sojourn,0,0
+[00:01:30] ,hero_swap,0,Team 1,OliverKris,Tracer,Sojourn,0
+[00:02:05] ,setup_complete,0,1,29.99
+[00:02:26] ,kill,21.15,Team 2,Diamond,Soldier: 76,Team 1,BruhDerpi,Winston,Primary Fire,10.94,0,0
+[00:02:26] ,defensive_assist,21.20,Team 2,atha,Kiriko,0
+[00:02:26] ,defensive_assist,21.22,Team 2,hachiko,Ana,0
+[00:02:26] ,defensive_assist,21.31,Team 2,Diamond,Soldier: 76,0
+[00:02:41] ,point_progress,36.50,1,All Teams,0,33.59
+[00:02:43] ,point_progress,38.22,1,All Teams,0,66.69
+[00:02:44] ,objective_captured,39.57,1,Team 2,0,0,0.01,0
+[00:02:51] ,kill,45.94,Team 1,OliverKris,Tracer,Team 2,atha,Kiriko,Melee,18.00,0,0
+[00:02:53] ,point_progress,48.05,1,Team 1,0,33.38
+[00:02:56] ,kill,50.73,Team 1,OliverKris,Tracer,Team 2,hachiko,Ana,Melee,16,0,0
+[00:02:58] ,point_progress,53.25,1,Team 1,0,66.74
+[00:03:02] ,kill,57.02,Team 1,Flameo,Genji,Team 2,Ronbot,Winston,Ability 1,12.21,0,0
+[00:03:02] ,point_progress,57.25,1,Team 1,0,99.92
+[00:03:02] ,objective_captured,57.26,1,Team 1,0,0.01,14.75,0
+[00:03:05] ,kill,59.81,Team 1,Flameo,Genji,Team 2,Diamond,Soldier: 76,Melee,11.62,0,0
+[00:03:07] ,kill,61.87,Team 1,Flameo,Genji,Team 2,drummr,Genji,Ability 1,24.86,0,0
+[00:03:07] ,defensive_assist,62.13,Team 1,THINMINT,Kiriko,0
+[00:03:36] ,ultimate_charged,91.00,Team 1,OliverKris,Tracer,0,1
+[00:03:36] ,ultimate_charged,91.20,Team 1,K1W1,Wuyang,0,1
+[00:03:37] ,ultimate_start,92.52,Team 1,OliverKris,Tracer,0,1
+[00:03:38] ,kill,92.68,Team 1,K1W1,Wuyang,Team 2,Ronbot,Winston,0,52.30,0,0
+[00:03:38] ,ultimate_end,92.72,Team 1,OliverKris,Tracer,0,1
+[00:03:38] ,defensive_assist,93.15,Team 1,THINMINT,Kiriko,0
+[00:03:40] ,kill,95.00,Team 2,Diamond,Soldier: 76,Team 1,BruhDerpi,Winston,Secondary Fire,78.95,0,0
+[00:03:40] ,kill,95.37,Team 1,K1W1,Wuyang,Team 2,drummr,Genji,0,4.31,0,0
+[00:03:40] ,defensive_assist,95.42,Team 2,Diamond,Soldier: 76,0
+[00:03:40] ,defensive_assist,95.44,Team 2,atha,Kiriko,0
+[00:03:40] ,defensive_assist,95.45,Team 2,hachiko,Ana,0
+[00:03:40] ,defensive_assist,95.50,Team 1,THINMINT,Kiriko,0
+[00:03:43] ,kill,97.76,Team 1,Flameo,Genji,Team 2,Diamond,Soldier: 76,Secondary Fire,31.64,True,0
+[00:03:43] ,defensive_assist,97.85,Team 1,THINMINT,Kiriko,0
+[00:03:45] ,kill,100.25,Team 1,OliverKris,Tracer,Team 2,hachiko,Ana,Primary Fire,4.31,0,0
+[00:03:46] ,defensive_assist,100.70,Team 1,THINMINT,Kiriko,0
+[00:03:47] ,kill,102.40,Team 1,OliverKris,Tracer,Team 2,atha,Kiriko,Primary Fire,1,0,0
+[00:03:47] ,defensive_assist,102.57,Team 1,THINMINT,Kiriko,0
+[00:03:59] ,ultimate_charged,113.99,Team 2,hachiko,Ana,0,1
+[00:04:09] ,ultimate_start,124.15,Team 2,hachiko,Ana,0,1
+[00:04:12] ,ultimate_charged,126.70,Team 1,BruhDerpi,Winston,0,1
+[00:04:12] ,ultimate_charged,127.11,Team 2,Diamond,Soldier: 76,0,1
+[00:04:12] ,ultimate_charged,127.63,Team 1,Flameo,Genji,0,1
+[00:04:13] ,kill,127.88,Team 1,OliverKris,Tracer,Team 2,Diamond,Soldier: 76,Primary Fire,0.49,0,0
+[00:04:13] ,defensive_assist,127.95,Team 1,THINMINT,Kiriko,0
+[00:04:13] ,ultimate_start,128.30,Team 1,Flameo,Genji,0,1
+[00:04:14] ,ultimate_charged,128.99,Team 2,atha,Kiriko,0,1
+[00:04:15] ,kill,129.98,Team 1,OliverKris,Tracer,Team 2,hachiko,Ana,Primary Fire,1.78,0,0
+[00:04:15] ,defensive_assist,130.28,Team 1,THINMINT,Kiriko,0
+[00:04:16] ,kill,131.13,Team 1,Flameo,Genji,Team 2,atha,Kiriko,Ability 1,29.82,0,0
+[00:04:17] ,ultimate_end,132.28,Team 2,hachiko,Ana,0,1
+[00:04:19] ,kill,134.12,Team 1,Flameo,Genji,Team 2,drummr,Genji,Ultimate,0.17,0,0
+[00:04:21] ,ultimate_end,136.51,Team 1,Flameo,Genji,0,1
+[00:04:22] ,ultimate_charged,136.81,Team 1,THINMINT,Kiriko,0,1
+[00:04:24] ,kill,138.91,Team 1,THINMINT,Kiriko,Team 2,Ronbot,Winston,0,26.94,0,0
+[00:04:24] ,defensive_assist,139.25,Team 1,THINMINT,Kiriko,0
+[00:04:46] ,ultimate_start,161.19,Team 1,BruhDerpi,Winston,0,1
+[00:04:49] ,kill,163.80,Team 1,OliverKris,Tracer,Team 2,Diamond,Soldier: 76,Primary Fire,2.86,0,0
+[00:04:49] ,defensive_assist,164.15,Team 1,THINMINT,Kiriko,0
+[00:04:51] ,kill,166.59,Team 1,BruhDerpi,Winston,Team 2,hachiko,Ana,Ultimate,22.41,0,0
+[00:04:52] ,defensive_assist,166.97,Team 1,THINMINT,Kiriko,0
+[00:04:52] ,ultimate_charged,167.35,Team 2,Ronbot,Winston,0,1
+[00:04:55] ,ultimate_start,170.59,Team 1,K1W1,Wuyang,0,1
+[00:04:56] ,kill,170.73,Team 1,BruhDerpi,Winston,Team 2,atha,Kiriko,Ultimate,37.52,0,0
+[00:04:56] ,ultimate_end,171.20,Team 1,BruhDerpi,Winston,0,1
+[00:04:56] ,defensive_assist,171.20,Team 1,THINMINT,Kiriko,0
+[00:04:56] ,ultimate_start,171.24,Team 2,Ronbot,Winston,0,1
+[00:04:58] ,kill,173.32,Team 1,BruhDerpi,Winston,Team 2,drummr,Genji,Melee,37.74,0,0
+[00:04:58] ,defensive_assist,173.55,Team 1,THINMINT,Kiriko,0
+[00:05:01] ,ultimate_end,176.19,Team 1,K1W1,Wuyang,0,1
+[00:05:06] ,ultimate_end,181.25,Team 2,Ronbot,Winston,0,1
+[00:05:10] ,kill,185.34,Team 1,Flameo,Genji,Team 2,Ronbot,Winston,Secondary Fire,37.99,True,0
+[00:05:11] ,ultimate_start,185.76,Team 2,Diamond,Soldier: 76,0,1
+[00:05:12] ,ultimate_charged,187.67,Team 1,OliverKris,Tracer,0,2
+[00:05:13] ,kill,187.76,Team 1,OliverKris,Tracer,Team 2,Diamond,Soldier: 76,Primary Fire,4,0,0
+[00:05:13] ,ultimate_end,187.76,Team 2,Diamond,Soldier: 76,0,1
+[00:05:14] ,player_stat,189.27,1,Team 1,Flameo,Tracer,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:05:14] ,player_stat,189.27,1,Team 1,Flameo,Genji,14,7,0,4219.81,1413,2806.81,0,1268.98,0,1268.98,0,0,0,1,1,0,0,1,1,0,0,9,0.12,0,0,0,305,75,185,0,0,0.29,189.27
+[00:05:14] ,player_stat,189.27,1,Team 1,BruhDerpi,Winston,15,3,2,4085.09,354.19,3730.89,0,2999.06,0,4488.20,3221,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,23,10,10,0,0,0.50,189.27
+[00:05:14] ,player_stat,189.27,1,Team 2,atha,Kiriko,2,0,4,894.59,218.59,676,2093.74,292.22,0,1260.51,0,2,0,1,0,0,0,0,0,0,0,1,0.09,0,0,0,37,11,22,0,0,0.33,189.27
+[00:05:14] ,player_stat,189.27,1,Team 1,THINMINT,Kiriko,9,1,0,2000.20,822.26,1177.94,2909.99,425.56,0,794.70,0,13,0,1,0,0,0,0,3,0,0,0,0,0,0,0,85,22,46,0,0,0.32,189.27
+[00:05:14] ,player_stat,189.27,1,Team 2,drummr,Genji,1,0,4,2495.50,1319,1176.50,0,558.00,0,1568.61,0,0,0,0,0,0,0,0,0,0,0,4,0.12,0,0,0,277,34,194,0,0,0.15,189.27
+[00:05:14] ,player_stat,189.27,1,Team 2,hachiko,Ana,2,0,4,1674.60,540.00,1134.60,2091.47,707.44,157.87,1918.54,0,2,0,1,1,0,0,0,0,0,0,0,0,0.76,0,0,75,47,22,33,25,0.68,189.27
+[00:05:14] ,player_stat,189.27,1,Team 1,K1W1,Wuyang,7,2,0,3731.49,830.02,2901.47,0,493.26,0,753.98,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,88,34,41,0,0,0.45,189.27
+[00:05:14] ,player_stat,189.27,1,Team 1,OliverKris,Sojourn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:05:14] ,player_stat,189.27,1,Team 1,OliverKris,Tracer,16,8,0,3429.20,1130.53,2298.67,0,447.91,277.37,795.28,0,0,0,2,1,0,0,0,1,0,0,41,0.09,0,0,0,1574,467,901,0,0,0.34,189.27
+[00:05:14] ,round_end,189.27,1,0,1,0,0,100,14.75,0
+[00:05:14] ,player_stat,189.27,1,Team 2,Ronbot,Junker Queen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:05:14] ,player_stat,189.27,1,Team 2,Ronbot,Winston,2,0,4,2877.41,421.41,2456.00,0,2361.60,0,5163.25,4550.00,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,20,12,8,0,0,0.60,189.27
+[00:05:14] ,player_stat,189.27,1,Team 2,Diamond,Soldier: 76,2,2,5,3380.03,722,2658.03,1213.02,1782.78,551.30,3065.02,0,2,0,1,1,0,0,0,0,0,0,20,0.16,0,0,0,354,129,182,0,0,0.41,189.27
+[00:05:24] ,objective_updated,189.27,2,0,1
+[00:05:25] ,round_start,189.27,2,0,1,0,1
+[00:05:29] ,hero_swap,189.27,Team 1,OliverKris,Sojourn,Tracer,0
+[00:05:54] ,hero_swap,189.27,Team 1,Flameo,Tracer,Genji,0
+[00:06:22] ,setup_complete,189.27,2,29.99
+[00:06:43] ,kill,210.14,Team 1,BruhDerpi,Winston,Team 2,Ronbot,Winston,Primary Fire,6.69,0,0
+[00:06:43] ,kill,210.17,Team 2,drummr,Genji,Team 1,OliverKris,Sojourn,Ability 1,43.07,0,0
+[00:06:43] ,offensive_assist,210.22,Team 2,hachiko,Ana,0
+[00:06:43] ,defensive_assist,210.25,Team 1,THINMINT,Kiriko,0
+[00:06:43] ,defensive_assist,210.59,Team 2,atha,Kiriko,0
+[00:06:51] ,kill,218.64,Team 1,K1W1,Wuyang,Team 2,atha,Kiriko,0,6.52,0,0
+[00:06:55] ,point_progress,221.95,2,All Teams,1,33.39
+[00:06:57] ,point_progress,224.62,2,All Teams,1,66.79
+[00:07:00] ,point_progress,227.28,2,All Teams,1,99.99
+[00:07:00] ,objective_captured,227.30,2,Team 1,1,0.01,0,0
+[00:07:09] ,kill,235.77,Team 2,Diamond,Soldier: 76,Team 1,THINMINT,Kiriko,Secondary Fire,29.62,0,0
+[00:07:09] ,defensive_assist,235.97,Team 2,atha,Kiriko,0
+[00:07:17] ,kill,244.73,Team 2,Diamond,Soldier: 76,Team 1,K1W1,Wuyang,Secondary Fire,58.89,0,0
+[00:07:22] ,point_progress,249.42,2,Team 2,1,33.57
+[00:07:23] ,kill,250.65,Team 2,Diamond,Soldier: 76,Team 1,Flameo,Tracer,Primary Fire,5.25,0,0
+[00:07:24] ,defensive_assist,251.12,Team 2,hachiko,Ana,0
+[00:07:24] ,point_progress,251.20,2,Team 2,1,66.88
+[00:07:25] ,objective_captured,252.59,2,Team 2,1,21.07,0.01,0
+[00:07:41] ,kill,268.54,Team 1,K1W1,Wuyang,Team 2,drummr,Genji,0,11.90,0,0
+[00:07:54] ,kill,281.26,Team 1,THINMINT,Kiriko,Team 2,atha,Kiriko,0,37.26,0,0
+[00:07:54] ,kill,281.37,Team 1,OliverKris,Sojourn,Team 2,hachiko,Ana,Primary Fire,5.73,0,0
+[00:07:54] ,defensive_assist,281.69,Team 1,THINMINT,Kiriko,0
+[00:07:54] ,defensive_assist,281.69,Team 1,THINMINT,Kiriko,0
+[00:07:57] ,point_progress,283.80,2,Team 1,1,33.39
+[00:08:01] ,kill,287.91,Team 1,OliverKris,Sojourn,Team 2,Ronbot,Winston,Secondary Fire,9.24,0,0
+[00:08:01] ,defensive_assist,288.28,Team 1,THINMINT,Kiriko,0
+[00:08:01] ,kill,288.60,Team 1,Flameo,Tracer,Team 2,Diamond,Soldier: 76,Primary Fire,0.68,True,0
+[00:08:02] ,point_progress,289.21,2,Team 1,1,66.86
+[00:08:03] ,objective_captured,290.53,2,Team 1,1,21.08,31.63,0
+[00:08:13] ,ultimate_charged,300.29,Team 2,hachiko,Ana,0,2
+[00:08:22] ,ultimate_charged,309.28,Team 1,K1W1,Wuyang,0,2
+[00:08:22] ,ultimate_charged,309.35,Team 1,Flameo,Tracer,0,2
+[00:08:24] ,ultimate_charged,311.68,Team 1,THINMINT,Kiriko,0,2
+[00:08:25] ,ultimate_start,312.58,Team 1,THINMINT,Kiriko,0,2
+[00:08:29] ,ultimate_start,316.59,Team 1,Flameo,Tracer,0,2
+[00:08:30] ,ultimate_end,316.79,Team 1,Flameo,Tracer,0,2
+[00:08:30] ,ultimate_charged,317.20,Team 1,BruhDerpi,Winston,0,2
+[00:08:32] ,kill,319.17,Team 1,K1W1,Wuyang,Team 2,hachiko,Ana,0,4.16,0,0
+[00:08:32] ,offensive_assist,319.30,Team 1,THINMINT,Kiriko,0
+[00:08:32] ,defensive_assist,319.30,Team 1,THINMINT,Kiriko,0
+[00:08:33] ,kill,320.74,Team 1,BruhDerpi,Winston,Team 2,atha,Kiriko,Primary Fire,6.57,0,0
+[00:08:34] ,offensive_assist,321.15,Team 1,THINMINT,Kiriko,0
+[00:08:34] ,defensive_assist,321.15,Team 1,THINMINT,Kiriko,0
+[00:08:35] ,kill,322.46,Team 1,OliverKris,Sojourn,Team 2,drummr,Genji,Ability 2,12.68,0,0
+[00:08:35] ,offensive_assist,322.58,Team 1,THINMINT,Kiriko,0
+[00:08:35] ,defensive_assist,322.58,Team 1,THINMINT,Kiriko,0
+[00:08:36] ,ultimate_end,323.31,Team 1,THINMINT,Kiriko,0,2
+[00:08:40] ,kill,327.55,Team 2,Diamond,Soldier: 76,Team 2,Diamond,Soldier: 76,0,250,0,True
+[00:08:50] ,ultimate_charged,337.42,Team 1,OliverKris,Sojourn,0,3
+[00:08:55] ,ultimate_charged,342.43,Team 2,atha,Kiriko,0,2
+[00:09:02] ,ultimate_charged,349.27,Team 2,Ronbot,Winston,0,2
+[00:09:08] ,ultimate_start,355.69,Team 1,K1W1,Wuyang,0,2
+[00:09:09] ,ultimate_start,356.06,Team 2,hachiko,Ana,0,2
+[00:09:13] ,ultimate_start,360.42,Team 1,BruhDerpi,Winston,0,2
+[00:09:13] ,ultimate_end,360.68,Team 1,K1W1,Wuyang,0,2
+[00:09:15] ,kill,361.80,Team 1,BruhDerpi,Winston,Team 2,hachiko,Ana,Ultimate,41.33,0,0
+[00:09:17] ,ultimate_end,364.18,Team 2,hachiko,Ana,0,2
+[00:09:17] ,kill,364.52,Team 1,K1W1,Wuyang,Team 2,atha,Kiriko,0,25.11,0,0
+[00:09:18] ,ultimate_charged,364.74,Team 2,Diamond,Soldier: 76,0,2
+[00:09:19] ,ultimate_start,366.36,Team 2,Diamond,Soldier: 76,0,2
+[00:09:20] ,kill,367.54,Team 2,Diamond,Soldier: 76,Team 1,Flameo,Tracer,Ultimate,17,0,0
+[00:09:21] ,kill,368.02,Team 1,BruhDerpi,Winston,Team 2,Diamond,Soldier: 76,Ultimate,34.38,0,0
+[00:09:21] ,ultimate_end,368.02,Team 2,Diamond,Soldier: 76,0,2
+[00:09:21] ,ultimate_start,368.41,Team 2,Ronbot,Winston,0,2
+[00:09:23] ,ultimate_end,370.42,Team 1,BruhDerpi,Winston,0,2
+[00:09:24] ,ultimate_charged,371.53,Team 2,drummr,Genji,0,1
+[00:09:31] ,ultimate_end,378.41,Team 2,Ronbot,Winston,0,2
+[00:09:33] ,ultimate_start,380.07,Team 1,OliverKris,Sojourn,0,3
+[00:09:36] ,kill,382.81,Team 1,K1W1,Wuyang,Team 2,Ronbot,Winston,0,16.80,0,0
+[00:09:36] ,offensive_assist,383.21,Team 1,THINMINT,Kiriko,0
+[00:09:36] ,defensive_assist,383.21,Team 1,THINMINT,Kiriko,0
+[00:09:38] ,player_stat,385.22,2,Team 1,Flameo,Tracer,5,1,2,1674.00,303.04,1370.96,0,269,200.36,971.32,0,0,0,1,1,0,0,1,0,0,0,37,0.10,0,0,0,1308,359,902,0,0,0.28,195.96
+[00:09:38] ,player_stat,385.22,2,Team 1,Flameo,Genji,14,7,0,4219.81,1413,2806.81,0,1268.98,0,1268.98,0,0,0,1,1,0,0,1,1,0,0,9,0.12,0,0,0,305,75,185,0,0,0.29,189.27
+[00:09:38] ,player_stat,385.22,2,Team 1,BruhDerpi,Winston,26,7,2,8556.06,914.87,7641.19,0,6551.85,0,8928.15,6237.72,0,0,2,2,1,3,0,2,0,0,0,0,0,0,0,64,25,32,0,0,0.44,385.22
+[00:09:38] ,player_stat,385.22,2,Team 2,atha,Kiriko,2,0,8,1942.99,844.99,1098,4597.50,675.86,0,2715.76,0,4,0,2,0,0,0,0,0,0,0,2,0.11,0,0,0,74,18,40,0,0,0.31,385.22
+[00:09:38] ,player_stat,385.22,2,Team 1,THINMINT,Kiriko,13,2,1,4051.46,1722.26,2329.20,5875.18,745.80,0,1583.33,0,21,4,2,0,0,0,0,4,0,0,2,0.05,0,0,0,182,42,105,0,0,0.29,385.22
+[00:09:38] ,player_stat,385.22,2,Team 2,drummr,Genji,4,1,6,5057.57,2175,2882.57,0,1243.24,0,2939.26,0,0,0,1,0,0,0,0,0,0,0,10,0.11,0,0,0,569,92,399,0,0,0.19,385.22
+[00:09:38] ,player_stat,385.22,2,Team 2,hachiko,Ana,5,0,7,3387.20,1304.60,2082.60,4641.42,1165.41,279.14,3337.16,0,3,1,2,2,0,0,0,0,0,0,0,0,0.71,0,0,165,95,54,78,55,0.64,385.22
+[00:09:38] ,player_stat,385.22,2,Team 1,K1W1,Wuyang,17,7,1,6998.26,1567.56,5430.70,0,781.81,0,1293.53,0,0,0,2,2,1,3,0,2,0,0,0,0,0,0,0,304,89,172,0,0,0.34,385.22
+[00:09:38] ,player_stat,385.22,2,Team 1,OliverKris,Sojourn,8,3,1,4241.11,1182.15,3058.96,0,1491.04,0,1732.52,0,0,0,1,1,1,3,0,1,0,0,37,0.13,0,0,0,1180,286,810,0,0,0.26,195.96
+[00:09:38] ,player_stat,385.22,2,Team 1,OliverKris,Tracer,16,8,0,3429.20,1130.53,2298.67,0,447.91,277.37,795.28,0,0,0,2,1,0,0,0,1,0,0,41,0.09,0,0,0,1574,467,901,0,0,0.34,189.27
+[00:09:38] ,round_end,385.22,2,0,2,0,1,100,31.63,0
+[00:09:38] ,player_stat,385.22,2,Team 2,Ronbot,Junker Queen,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:09:38] ,player_stat,385.22,2,Team 2,Ronbot,Winston,5,0,7,6388.96,637.06,5751.90,0,6016.19,0,11260.61,8233.40,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,48,27,20,0,0,0.57,385.22
+[00:09:38] ,player_stat,385.22,2,Team 2,Diamond,Soldier: 76,6,6,8,6034.10,1276.07,4758.03,1547.10,2939.74,879.42,5033.84,0,2,0,2,2,0,0,1,1,0,1,27,0.12,0,0,0,687,222,393,0,0,0.36,385.22
+[00:09:42] ,ultimate_end,385.22,Team 1,OliverKris,Sojourn,0,3
+[00:09:48] ,objective_updated,385.22,3,1,2
+[00:09:49] ,round_start,385.22,3,0,2,0,2
+[00:09:52] ,hero_swap,385.22,Team 1,Flameo,Reaper,Tracer,0
+[00:09:54] ,hero_swap,385.22,Team 1,BruhDerpi,Zarya,Winston,0
+[00:09:54] ,hero_swap,385.22,Team 1,OliverKris,Tracer,Sojourn,0
+[00:09:55] ,hero_swap,385.22,Team 2,Ronbot,Junker Queen,Winston,0
+[00:09:55] ,hero_swap,385.22,Team 2,Diamond,Hanzo,Soldier: 76,0
+[00:09:55] ,hero_swap,385.22,Team 2,atha,Lúcio,Kiriko,0
+[00:09:56] ,hero_swap,385.22,Team 2,hachiko,Kiriko,Ana,0
+[00:11:19] ,setup_complete,385.22,3,29.99
+[00:11:55] ,kill,420.99,Team 1,OliverKris,Tracer,Team 2,Diamond,Hanzo,Melee,20.16,0,0
+[00:11:59] ,point_progress,425.15,3,All Teams,2,33.39
+[00:12:01] ,point_progress,426.99,3,All Teams,2,66.79
+[00:12:03] ,point_progress,428.93,3,All Teams,2,99.99
+[00:12:03] ,objective_captured,428.94,3,Team 1,2,0.01,0,0
+[00:12:05] ,kill,430.99,Team 1,Flameo,Reaper,Team 2,hachiko,Kiriko,Primary Fire,3.42,0,0
+[00:12:05] ,defensive_assist,431.13,Team 1,BruhDerpi,Zarya,0
+[00:12:05] ,defensive_assist,431.15,Team 1,THINMINT,Kiriko,0
+[00:12:06] ,kill,432.05,Team 2,drummr,Genji,Team 1,Flameo,Reaper,Secondary Fire,11.55,0,0
+[00:12:06] ,offensive_assist,432.05,Team 2,hachiko,Kiriko,0
+[00:12:07] ,kill,433.10,Team 1,K1W1,Wuyang,Team 2,atha,Lúcio,Ability 2,42.65,0,0
+[00:12:07] ,defensive_assist,433.47,Team 1,BruhDerpi,Zarya,0
+[00:12:09] ,kill,435.61,Team 1,OliverKris,Tracer,Team 2,drummr,Genji,Melee,39.53,0,0
+[00:12:12] ,kill,437.87,Team 2,Ronbot,Junker Queen,Team 1,K1W1,Wuyang,Secondary Fire,57.04,0,0
+[00:12:13] ,kill,439.76,Team 1,BruhDerpi,Zarya,Team 2,Ronbot,Junker Queen,Secondary Fire,29.68,0,0
+[00:12:14] ,defensive_assist,440.08,Team 1,THINMINT,Kiriko,0
+[00:12:47] ,kill,473.01,Team 1,BruhDerpi,Zarya,Team 2,Diamond,Hanzo,Primary Fire,6.56,0,0
+[00:12:47] ,defensive_assist,473.44,Team 1,THINMINT,Kiriko,0
+[00:12:47] ,kill,473.59,Team 1,Flameo,Reaper,Team 2,atha,Lúcio,Primary Fire,23.02,0,0
+[00:12:49] ,ultimate_charged,475.25,Team 1,OliverKris,Tracer,0,4
+[00:12:52] ,kill,478.64,Team 1,Flameo,Reaper,Team 2,drummr,Genji,Primary Fire,57.32,True,0
+[00:12:55] ,kill,480.77,Team 2,Ronbot,Junker Queen,Team 1,K1W1,Wuyang,Ability 2,0.28,0,0
+[00:12:55] ,defensive_assist,480.88,Team 2,hachiko,Kiriko,0
+[00:12:57] ,kill,483.49,Team 2,Ronbot,Junker Queen,Team 1,OliverKris,Tracer,0,25.36,0,0
+[00:12:57] ,defensive_assist,483.71,Team 2,hachiko,Kiriko,0
+[00:12:58] ,kill,484.00,Team 1,BruhDerpi,Zarya,Team 2,hachiko,Kiriko,Primary Fire,2.02,0,0
+[00:13:01] ,kill,487.20,Team 1,THINMINT,Kiriko,Team 2,Ronbot,Junker Queen,0,17.96,0,0
+[00:13:01] ,defensive_assist,487.54,Team 1,THINMINT,Kiriko,0
+[00:13:23] ,ultimate_charged,509.47,Team 1,K1W1,Wuyang,0,3
+[00:13:26] ,ultimate_start,512.30,Team 1,OliverKris,Tracer,0,4
+[00:13:26] ,ultimate_charged,512.47,Team 2,hachiko,Kiriko,0,3
+[00:13:26] ,ultimate_end,512.49,Team 1,OliverKris,Tracer,0,4
+[00:13:26] ,kill,512.57,Team 2,atha,Lúcio,Team 1,OliverKris,Tracer,Secondary Fire,35,0,0
+[00:13:28] ,ultimate_charged,514.20,Team 1,Flameo,Reaper,0,3
+[00:13:31] ,ultimate_start,517.00,Team 1,K1W1,Wuyang,0,3
+[00:13:31] ,ultimate_start,517.34,Team 1,Flameo,Reaper,0,3
+[00:13:32] ,kill,518.31,Team 1,K1W1,Wuyang,Team 2,drummr,Genji,0,26.59,0,0
+[00:13:32] ,ultimate_charged,518.34,Team 2,atha,Lúcio,0,3
+[00:13:32] ,defensive_assist,518.50,Team 1,BruhDerpi,Zarya,0
+[00:13:32] ,defensive_assist,518.55,Team 1,THINMINT,Kiriko,0
+[00:13:32] ,ultimate_charged,518.66,Team 1,BruhDerpi,Zarya,0,3
+[00:13:32] ,kill,518.66,Team 1,BruhDerpi,Zarya,Team 2,atha,Lúcio,Primary Fire,6.78,0,0
+[00:13:33] ,defensive_assist,518.97,Team 1,BruhDerpi,Zarya,0
+[00:13:33] ,defensive_assist,519.02,Team 1,THINMINT,Kiriko,0
+[00:13:33] ,ultimate_charged,519.02,Team 2,Ronbot,Junker Queen,0,3
+[00:13:34] ,ultimate_end,520.33,Team 1,Flameo,Reaper,0,3
+[00:13:34] ,kill,520.58,Team 1,Flameo,Reaper,Team 2,Diamond,Hanzo,Primary Fire,1.74,0,0
+[00:13:35] ,defensive_assist,520.87,Team 1,BruhDerpi,Zarya,0
+[00:13:35] ,kill,521.21,Team 1,BruhDerpi,Zarya,Team 2,hachiko,Kiriko,Primary Fire,4.69,0,0
+[00:13:35] ,defensive_assist,521.32,Team 1,BruhDerpi,Zarya,0
+[00:13:35] ,defensive_assist,521.37,Team 1,THINMINT,Kiriko,0
+[00:13:36] ,ultimate_end,521.99,Team 1,K1W1,Wuyang,0,3
+[00:13:38] ,ultimate_charged,524.69,Team 1,THINMINT,Kiriko,0,3
+[00:13:39] ,kill,525.06,Team 2,Ronbot,Junker Queen,Team 1,K1W1,Wuyang,Ability 2,92.11,0,0
+[00:13:39] ,defensive_assist,525.51,Team 2,hachiko,Kiriko,0
+[00:13:42] ,kill,527.76,Team 1,BruhDerpi,Zarya,Team 2,Ronbot,Junker Queen,Secondary Fire,40.76,0,0
+[00:13:42] ,defensive_assist,527.89,Team 1,BruhDerpi,Zarya,0
+[00:13:42] ,defensive_assist,527.94,Team 1,THINMINT,Kiriko,0
+[00:13:56] ,ultimate_start,542.14,Team 1,BruhDerpi,Zarya,0,3
+[00:13:59] ,ultimate_start,545.19,Team 2,hachiko,Kiriko,0,3
+[00:13:59] ,kill,545.61,Team 1,OliverKris,Tracer,Team 2,hachiko,Kiriko,Primary Fire,0.91,0,0
+[00:14:00] ,offensive_assist,545.74,Team 1,BruhDerpi,Zarya,0
+[00:14:00] ,defensive_assist,545.77,Team 1,THINMINT,Kiriko,0
+[00:14:00] ,ultimate_charged,545.94,Team 2,Diamond,Hanzo,0,3
+[00:14:00] ,ultimate_start,546.14,Team 1,THINMINT,Kiriko,0,3
+[00:14:00] ,ultimate_end,546.44,Team 1,BruhDerpi,Zarya,0,3
+[00:14:00] ,kill,546.57,Team 1,THINMINT,Kiriko,Team 2,Diamond,Hanzo,0,3.87,0,0
+[00:14:00] ,offensive_assist,546.68,Team 1,BruhDerpi,Zarya,0
+[00:14:00] ,defensive_assist,546.71,Team 1,THINMINT,Kiriko,0
+[00:14:03] ,round_end,548.89,3,0,3,0,2,100,0,0
+[00:14:03] ,match_end,548.89,3,3,0
+[00:14:03] ,player_stat,548.89,3,Team 1,Flameo,Tracer,5,1,2,1674.00,303.04,1370.96,0,269,200.36,971.32,0,0,0,1,1,0,0,1,0,0,0,37,0.10,0,0,0,1308,359,902,0,0,0.28,195.96
+[00:14:03] ,player_stat,548.89,3,Team 1,Flameo,Genji,14,7,0,4219.81,1413,2806.81,0,1268.98,0,1268.98,0,0,0,1,1,0,0,1,1,0,0,9,0.12,0,0,0,305,75,185,0,0,0.29,189.27
+[00:14:03] ,player_stat,548.89,3,Team 1,Flameo,Reaper,13,4,1,3215.02,0,3215.02,0,1439.29,508.54,1887.47,0,0,0,1,1,1,4,0,2,0,0,61,0.16,0,0,0,1720,385,1314,0,0,0.23,163.67
+[00:14:03] ,player_stat,548.89,3,Team 1,BruhDerpi,Winston,26,7,2,8556.06,914.87,7641.19,0,6551.85,0,8928.15,6237.72,0,0,2,2,1,3,0,2,0,0,0,0,0,0,0,64,25,32,0,0,0.44,385.22
+[00:14:03] ,player_stat,548.89,3,Team 1,BruhDerpi,Zarya,13,6,0,3205.51,0,3205.51,0,2078.84,0,2314.72,1143.20,7,2,1,1,0,0,0,2,0,0,0,0,0,0,0,45,22,21,0,0,0.51,163.67
+[00:14:03] ,player_stat,548.89,3,Team 2,atha,Kiriko,2,0,8,1942.99,844.99,1098,4597.50,675.86,0,2715.76,0,4,0,2,0,0,0,0,0,0,0,2,0.11,0,0,0,74,18,40,0,0,0.31,385.22
+[00:14:03] ,player_stat,548.89,3,Team 2,atha,Lúcio,2,1,3,665,250,415,2162.07,601.96,387.83,1475.69,0,0,0,1,0,0,0,0,0,0,0,3,0.23,0,0,0,105,13,84,0,0,0.13,163.67
+[00:14:03] ,player_stat,548.89,3,Team 1,THINMINT,Kiriko,17,4,1,5333.28,1722.26,3611.02,7856.94,935.80,0,2192.72,0,31,4,3,1,0,0,0,5,0,0,6,0.10,0,0,0,255,63,156,0,0,0.29,548.89
+[00:14:03] ,player_stat,548.89,3,Team 2,drummr,Genji,5,2,9,6654.60,2673.20,3981.40,0,2168.55,0,4886.60,0,0,0,1,0,0,0,0,0,0,0,13,0.11,0,0,0,765,122,552,0,0,0.18,548.89
+[00:14:03] ,player_stat,548.89,3,Team 2,hachiko,Ana,5,0,7,3387.20,1304.60,2082.60,4641.42,1165.41,279.14,3337.16,0,3,1,2,2,0,0,0,0,0,0,0,0,0.71,0,0,165,95,54,78,55,0.64,385.22
+[00:14:03] ,player_stat,548.89,3,Team 2,hachiko,Kiriko,3,0,4,1110,120,990,1632.52,952.59,0,2104.83,0,3,1,1,0,0,0,0,0,0,0,3,0.21,0,0,0,50,14,34,0,0,0.29,163.67
+[00:14:03] ,player_stat,548.89,3,Team 2,Ronbot,Junker Queen,5,4,3,2781.38,0,2781.38,0,2115.30,708.94,4257.13,0,0,0,1,0,0,0,1,2,0,0,21,0.12,0,0,0,720,178,541,0,0,0.25,163.67
+[00:14:03] ,player_stat,548.89,3,Team 2,Ronbot,Winston,5,0,7,6388.96,637.06,5751.90,0,6016.19,0,11260.61,8233.40,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,48,27,20,0,0,0.57,385.22
+[00:14:03] ,player_stat,548.89,3,Team 2,Diamond,Soldier: 76,6,6,8,6034.10,1276.07,4758.03,1547.10,2939.74,879.42,5033.84,0,2,0,2,2,0,0,1,1,0,1,27,0.12,0,0,0,687,222,393,0,0,0.36,385.22
+[00:14:03] ,player_stat,548.89,3,Team 2,Diamond,Hanzo,0,0,4,1525,275,1250,0,420.18,0,1480.18,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,39,13,23,0,0,0.36,163.67
+[00:14:03] ,player_stat,548.89,3,Team 1,K1W1,Wuyang,28,9,4,9226.14,1567.56,7658.58,0,1003.49,0,2383.93,0,0,0,3,3,1,3,0,2,0,0,0,0,0,0,0,466,152,265,0,0,0.36,548.89
+[00:14:03] ,player_stat,548.89,3,Team 1,OliverKris,Sojourn,8,3,1,4241.11,1182.15,3058.96,0,1491.04,0,1732.52,0,0,0,1,1,1,3,0,1,0,0,37,0.13,0,0,0,1180,286,810,0,0,0.26,195.96
+[00:14:03] ,player_stat,548.89,3,Team 1,OliverKris,Tracer,27,11,2,4764.13,1130.53,3633.60,0,735.01,382.63,1602.38,0,0,0,3,2,0,0,0,3,0,0,70,0.10,0,0,0,2418,684,1507,0,0,0.31,352.93
+[00:14:06] ,ultimate_end,548.89,Team 1,THINMINT,,0,3
+[00:14:06] ,ultimate_end,548.89,Team 2,hachiko,,0,3

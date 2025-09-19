@@ -1,0 +1,414 @@
+[00:00:00] ,match_start,0,King's Row,Hybrid,Team 1,Team 2
+[00:00:01] ,round_start,0,1,Team 2,0,0,0
+[00:00:11] ,hero_spawn,0,Team 2,drummr,Genji,0,0
+[00:00:12] ,hero_spawn,0,Team 2,Ronbot,Junker Queen,0,0
+[00:00:13] ,hero_spawn,0,Team 2,atha,Lúcio,0,0
+[00:00:14] ,hero_spawn,0,Team 2,Diamond,Hanzo,0,0
+[00:00:16] ,hero_spawn,0,Team 2,hachiko,Kiriko,0,0
+[00:00:18] ,hero_spawn,0,Team 1,Flameo,Torbjörn,0,0
+[00:00:18] ,hero_spawn,0,Team 1,THINMINT,Kiriko,0,0
+[00:00:19] ,hero_spawn,0,Team 1,OliverKris,Sojourn,0,0
+[00:00:21] ,hero_spawn,0,Team 1,Ante,Lúcio,0,0
+[00:00:22] ,hero_spawn,0,Team 1,BruhDerpi,Sigma,0,0
+[00:00:24] ,hero_swap,0,Team 1,Flameo,Genji,Torbjörn,0
+[00:02:00] ,setup_complete,0,1,239.99
+[00:02:21] ,kill,21.28,Team 1,OliverKris,Sojourn,Team 2,hachiko,Kiriko,Secondary Fire,32.81,0,0
+[00:02:25] ,kill,24.62,Team 1,BruhDerpi,Sigma,Team 2,Ronbot,Junker Queen,Primary Fire,52.60,0,0
+[00:02:25] ,defensive_assist,25.01,Team 1,THINMINT,Kiriko,0
+[00:02:25] ,offensive_assist,25.02,Team 1,Ante,Lúcio,0
+[00:02:25] ,defensive_assist,25.02,Team 1,Ante,Lúcio,0
+[00:02:30] ,kill,29.97,Team 1,THINMINT,Kiriko,Team 2,drummr,Genji,Melee,18.54,0,0
+[00:02:30] ,defensive_assist,30.13,Team 1,THINMINT,Kiriko,0
+[00:02:30] ,offensive_assist,30.19,Team 1,Ante,Lúcio,0
+[00:02:30] ,kill,30.21,Team 1,Flameo,Genji,Team 2,Diamond,Hanzo,Secondary Fire,11,0,0
+[00:02:31] ,kill,30.54,Team 1,OliverKris,Sojourn,Team 2,atha,Lúcio,Secondary Fire,54.48,True,0
+[00:02:31] ,defensive_assist,30.59,Team 1,THINMINT,Kiriko,0
+[00:02:31] ,offensive_assist,30.66,Team 1,Ante,Lúcio,0
+[00:03:13] ,kill,72.96,Team 2,hachiko,Kiriko,Team 1,THINMINT,Kiriko,0,46,True,0
+[00:03:13] ,offensive_assist,72.97,Team 2,atha,Lúcio,0
+[00:03:13] ,kill,73.02,Team 1,OliverKris,Sojourn,Team 2,hachiko,Kiriko,Secondary Fire,65.55,True,0
+[00:03:13] ,defensive_assist,73.02,Team 2,hachiko,Kiriko,0
+[00:03:13] ,offensive_assist,73.36,Team 1,Ante,Lúcio,0
+[00:03:14] ,kill,74.32,Team 1,Ante,Lúcio,Team 2,atha,Lúcio,Melee,25.95,0,0
+[00:03:16] ,kill,75.50,Team 2,drummr,Genji,Team 1,OliverKris,Sojourn,Secondary Fire,43.93,True,0
+[00:03:16] ,defensive_assist,75.68,Team 2,hachiko,Kiriko,0
+[00:03:18] ,kill,78.33,Team 1,Flameo,Genji,Team 2,Diamond,Hanzo,Secondary Fire,25.39,0,0
+[00:03:21] ,kill,80.97,Team 1,BruhDerpi,Sigma,Team 2,Ronbot,Junker Queen,Primary Fire,36.71,0,0
+[00:03:25] ,kill,84.70,Team 1,BruhDerpi,Sigma,Team 2,drummr,Genji,Primary Fire,55,0,0
+[00:03:37] ,ultimate_charged,97.00,Team 1,BruhDerpi,Sigma,0,1
+[00:03:56] ,kill,115.74,Team 1,BruhDerpi,Sigma,Team 2,Ronbot,Junker Queen,Primary Fire,4.06,0,0
+[00:03:56] ,offensive_assist,116.17,Team 1,Ante,Lúcio,0
+[00:03:56] ,offensive_assist,116.19,Team 1,THINMINT,Kiriko,0
+[00:03:56] ,defensive_assist,116.19,Team 1,THINMINT,Kiriko,0
+[00:03:57] ,ultimate_charged,117.39,Team 1,OliverKris,Sojourn,0,1
+[00:04:01] ,ultimate_charged,120.49,Team 1,Flameo,Genji,0,1
+[00:04:02] ,ultimate_charged,121.82,Team 2,atha,Lúcio,0,1
+[00:04:03] ,kill,122.76,Team 2,Diamond,Hanzo,Team 1,Flameo,Genji,Ability 2,68.86,0,0
+[00:04:03] ,ultimate_charged,122.76,Team 2,Diamond,Hanzo,0,1
+[00:04:03] ,offensive_assist,122.79,Team 2,atha,Lúcio,0
+[00:04:03] ,kill,123.08,Team 1,OliverKris,Sojourn,Team 2,atha,Lúcio,Secondary Fire,20.45,0,0
+[00:04:03] ,defensive_assist,123.15,Team 2,hachiko,Kiriko,0
+[00:04:03] ,offensive_assist,123.21,Team 1,Ante,Lúcio,0
+[00:04:03] ,defensive_assist,123.21,Team 1,Ante,Lúcio,0
+[00:04:03] ,defensive_assist,123.23,Team 1,THINMINT,Kiriko,0
+[00:04:04] ,kill,123.96,Team 2,drummr,Genji,Team 1,Ante,Lúcio,Secondary Fire,21.76,0,0
+[00:04:04] ,defensive_assist,124.09,Team 2,hachiko,Kiriko,0
+[00:04:04] ,offensive_assist,124.20,Team 2,atha,Lúcio,0
+[00:04:04] ,defensive_assist,124.20,Team 2,atha,Lúcio,0
+[00:04:05] ,ultimate_start,124.92,Team 2,Diamond,Hanzo,0,1
+[00:04:05] ,kill,125.37,Team 1,BruhDerpi,Sigma,Team 2,hachiko,Kiriko,Primary Fire,49.73,0,0
+[00:04:06] ,offensive_assist,125.56,Team 1,Ante,Lúcio,0
+[00:04:06] ,defensive_assist,125.56,Team 1,Ante,Lúcio,0
+[00:04:06] ,ultimate_end,125.88,Team 2,Diamond,Hanzo,0,1
+[00:04:07] ,kill,127.16,Team 2,Diamond,Hanzo,Team 1,THINMINT,Kiriko,Ultimate,60.65,0,0
+[00:04:07] ,defensive_assist,127.37,Team 2,hachiko,Kiriko,0
+[00:04:09] ,kill,128.51,Team 1,OliverKris,Sojourn,Team 2,drummr,Genji,Primary Fire,6.05,0,0
+[00:04:12] ,kill,131.77,Team 1,BruhDerpi,Sigma,Team 2,Diamond,Hanzo,Melee,36.71,0,0
+[00:04:24] ,ultimate_charged,144.00,Team 1,THINMINT,Kiriko,0,1
+[00:04:33] ,ultimate_charged,153.01,Team 1,Ante,Lúcio,0,1
+[00:04:37] ,ultimate_start,156.65,Team 1,THINMINT,Kiriko,0,1
+[00:04:38] ,ultimate_charged,158.33,Team 2,hachiko,Kiriko,0,1
+[00:04:39] ,ultimate_start,159.46,Team 1,Flameo,Genji,0,1
+[00:04:41] ,ultimate_start,160.60,Team 2,atha,Lúcio,0,1
+[00:04:42] ,ultimate_start,162.10,Team 1,Ante,Lúcio,0,1
+[00:04:42] ,kill,162.18,Team 1,Flameo,Genji,Team 2,hachiko,Kiriko,Ultimate,69.89,0,0
+[00:04:42] ,offensive_assist,162.23,Team 1,Ante,Lúcio,0
+[00:04:42] ,defensive_assist,162.23,Team 1,Ante,Lúcio,0
+[00:04:42] ,offensive_assist,162.26,Team 1,THINMINT,Kiriko,0
+[00:04:42] ,defensive_assist,162.26,Team 1,THINMINT,Kiriko,0
+[00:04:44] ,kill,163.96,Team 1,THINMINT,Kiriko,Team 2,Diamond,Hanzo,0,56.99,0,0
+[00:04:44] ,offensive_assist,164.10,Team 1,Ante,Lúcio,0
+[00:04:44] ,defensive_assist,164.10,Team 1,Ante,Lúcio,0
+[00:04:44] ,defensive_assist,164.14,Team 1,THINMINT,Kiriko,0
+[00:04:47] ,ultimate_end,167.39,Team 1,THINMINT,Kiriko,0,1
+[00:04:48] ,ultimate_end,167.82,Team 1,Flameo,Genji,0,1
+[00:04:49] ,ultimate_end,168.54,Team 2,atha,Lúcio,0,1
+[00:04:49] ,ultimate_charged,169.03,Team 2,drummr,Genji,0,1
+[00:04:49] ,kill,169.27,Team 2,Ronbot,Junker Queen,Team 1,BruhDerpi,Sigma,Ability 2,0.96,0,0
+[00:04:49] ,offensive_assist,169.34,Team 2,atha,Lúcio,0
+[00:04:49] ,defensive_assist,169.34,Team 2,atha,Lúcio,0
+[00:04:50] ,ultimate_end,169.83,Team 1,Ante,Lúcio,0,1
+[00:04:51] ,kill,170.55,Team 1,Flameo,Genji,Team 2,atha,Lúcio,Melee,9.73,0,0
+[00:04:51] ,offensive_assist,170.67,Team 1,Ante,Lúcio,0
+[00:04:51] ,defensive_assist,170.67,Team 1,Ante,Lúcio,0
+[00:04:51] ,offensive_assist,170.70,Team 1,THINMINT,Kiriko,0
+[00:04:51] ,defensive_assist,170.70,Team 1,THINMINT,Kiriko,0
+[00:04:52] ,kill,172.40,Team 1,Flameo,Genji,Team 2,drummr,Genji,Ability 1,18.90,0,0
+[00:04:53] ,offensive_assist,172.56,Team 1,Ante,Lúcio,0
+[00:04:53] ,defensive_assist,172.56,Team 1,Ante,Lúcio,0
+[00:04:53] ,offensive_assist,172.62,Team 1,THINMINT,Kiriko,0
+[00:04:53] ,defensive_assist,172.62,Team 1,THINMINT,Kiriko,0
+[00:04:53] ,kill,173.37,Team 1,THINMINT,Kiriko,Team 2,Ronbot,Junker Queen,0,66.65,True,0
+[00:04:53] ,offensive_assist,173.48,Team 1,Ante,Lúcio,0
+[00:04:53] ,defensive_assist,173.48,Team 1,Ante,Lúcio,0
+[00:04:54] ,defensive_assist,173.55,Team 1,THINMINT,Kiriko,0
+[00:05:18] ,ultimate_start,198.44,Team 1,OliverKris,Sojourn,0,1
+[00:05:19] ,ultimate_start,199.30,Team 1,BruhDerpi,Sigma,0,1
+[00:05:21] ,ultimate_start,200.69,Team 2,hachiko,Kiriko,0,1
+[00:05:21] ,ultimate_charged,201.27,Team 2,Ronbot,Junker Queen,0,1
+[00:05:24] ,ultimate_end,203.80,Team 1,BruhDerpi,Sigma,0,1
+[00:05:25] ,kill,204.65,Team 1,Flameo,Genji,Team 2,hachiko,Kiriko,Ability 1,1.50,0,0
+[00:05:25] ,offensive_assist,204.95,Team 1,BruhDerpi,Sigma,0
+[00:05:25] ,offensive_assist,204.98,Team 1,Ante,Lúcio,0
+[00:05:27] ,ultimate_start,206.52,Team 2,Ronbot,Junker Queen,0,1
+[00:05:27] ,ultimate_end,207.18,Team 1,OliverKris,Sojourn,0,1
+[00:05:28] ,ultimate_end,207.87,Team 2,Ronbot,Junker Queen,0,1
+[00:05:30] ,kill,210.01,Team 2,drummr,Genji,Team 1,OliverKris,Sojourn,Melee,26.88,0,0
+[00:05:30] ,offensive_assist,210.19,Team 2,hachiko,Kiriko,0
+[00:05:30] ,offensive_assist,210.23,Team 2,atha,Lúcio,0
+[00:05:30] ,defensive_assist,210.23,Team 2,atha,Lúcio,0
+[00:05:31] ,ultimate_end,211.44,Team 2,hachiko,Kiriko,0,1
+[00:05:33] ,kill,212.88,Team 2,Ronbot,Junker Queen,Team 1,BruhDerpi,Sigma,Ability 2,61.90,0,0
+[00:05:33] ,offensive_assist,213.02,Team 2,hachiko,Kiriko,0
+[00:05:33] ,defensive_assist,213.02,Team 2,hachiko,Kiriko,0
+[00:05:33] ,offensive_assist,213.07,Team 2,atha,Lúcio,0
+[00:05:33] ,defensive_assist,213.07,Team 2,atha,Lúcio,0
+[00:05:33] ,kill,213.29,Team 1,Flameo,Genji,Team 2,Diamond,Hanzo,Secondary Fire,19.92,0,0
+[00:05:45] ,kill,225.15,Team 2,drummr,Genji,Team 1,Ante,Lúcio,Secondary Fire,25,0,0
+[00:05:45] ,offensive_assist,225.28,Team 2,atha,Lúcio,0
+[00:05:45] ,defensive_assist,225.28,Team 2,atha,Lúcio,0
+[00:05:51] ,kill,231.04,Team 2,Ronbot,Junker Queen,Team 1,THINMINT,Kiriko,0,40.40,0,0
+[00:05:54] ,point_progress,234.32,1,Team 2,0,33.39
+[00:05:55] ,kill,235.35,Team 1,Flameo,Genji,Team 2,hachiko,Kiriko,Melee,4.35,0,0
+[00:05:58] ,kill,238.25,Team 2,drummr,Genji,Team 1,Flameo,Genji,Primary Fire,13.88,True,0
+[00:06:04] ,point_progress,243.58,1,Team 2,0,66.79
+[00:06:14] ,ultimate_start,253.63,Team 2,drummr,Genji,0,1
+[00:06:14] ,kill,254.43,Team 2,Ronbot,Junker Queen,Team 1,THINMINT,Kiriko,0,0.59,0,0
+[00:06:14] ,defensive_assist,254.44,Team 2,atha,Lúcio,0
+[00:06:15] ,kill,255.36,Team 2,drummr,Genji,Team 1,OliverKris,Sojourn,Ultimate,100,0,0
+[00:06:18] ,kill,258.52,Team 2,Ronbot,Junker Queen,Team 1,BruhDerpi,Sigma,Ability 2,2.01,0,0
+[00:06:19] ,defensive_assist,258.65,Team 2,hachiko,Kiriko,0
+[00:06:19] ,offensive_assist,258.67,Team 2,atha,Lúcio,0
+[00:06:22] ,ultimate_end,261.88,Team 2,drummr,Genji,0,1
+[00:06:23] ,point_progress,262.62,1,Team 2,0,99.94
+[00:06:23] ,objective_updated,262.64,1,0,1
+[00:06:23] ,objective_captured,262.64,1,Team 2,1,0,0,149.99
+[00:06:24] ,ultimate_charged,263.93,Team 2,Diamond,Hanzo,0,2
+[00:06:42] ,payload_progress,282.34,1,Team 2,1,10.03
+[00:06:55] ,payload_progress,294.98,1,Team 2,1,20.02
+[00:07:01] ,ultimate_charged,301.50,Team 2,atha,Lúcio,0,2
+[00:07:06] ,payload_progress,306.47,1,Team 2,1,30.02
+[00:07:07] ,ultimate_start,306.62,Team 2,Diamond,Hanzo,0,2
+[00:07:07] ,ultimate_charged,306.90,Team 1,Flameo,Genji,0,2
+[00:07:08] ,ultimate_end,307.58,Team 2,Diamond,Hanzo,0,2
+[00:07:13] ,ultimate_charged,313.28,Team 1,THINMINT,Kiriko,0,2
+[00:07:14] ,ultimate_start,314.11,Team 1,Flameo,Genji,0,2
+[00:07:15] ,ultimate_start,314.64,Team 1,THINMINT,Kiriko,0,2
+[00:07:16] ,kill,315.98,Team 1,Flameo,Genji,Team 2,Diamond,Hanzo,Ultimate,18.68,0,0
+[00:07:16] ,defensive_assist,316.02,Team 1,THINMINT,Kiriko,0
+[00:07:19] ,kill,319.52,Team 1,THINMINT,Kiriko,Team 2,atha,Lúcio,0,32.80,0,0
+[00:07:20] ,defensive_assist,319.78,Team 1,THINMINT,Kiriko,0
+[00:07:21] ,kill,321.50,Team 1,BruhDerpi,Sigma,Team 2,hachiko,Kiriko,Primary Fire,35.44,0,0
+[00:07:22] ,offensive_assist,321.65,Team 1,THINMINT,Kiriko,0
+[00:07:22] ,defensive_assist,321.65,Team 1,THINMINT,Kiriko,0
+[00:07:23] ,ultimate_end,322.67,Team 1,Flameo,Genji,0,2
+[00:07:24] ,ultimate_end,324.54,Team 1,THINMINT,Kiriko,0,2
+[00:07:25] ,kill,325.55,Team 1,BruhDerpi,Sigma,Team 2,drummr,Genji,Primary Fire,7.03,0,0
+[00:07:26] ,offensive_assist,325.85,Team 1,Ante,Lúcio,0
+[00:07:26] ,offensive_assist,325.87,Team 1,THINMINT,Kiriko,0
+[00:07:26] ,defensive_assist,325.87,Team 1,THINMINT,Kiriko,0
+[00:07:27] ,kill,326.91,Team 1,BruhDerpi,Sigma,Team 2,Ronbot,Junker Queen,Primary Fire,37.36,0,0
+[00:07:27] ,offensive_assist,327.26,Team 1,Ante,Lúcio,0
+[00:07:27] ,offensive_assist,327.28,Team 1,THINMINT,Kiriko,0
+[00:07:27] ,defensive_assist,327.28,Team 1,THINMINT,Kiriko,0
+[00:07:47] ,ultimate_charged,346.90,Team 1,BruhDerpi,Sigma,0,2
+[00:07:48] ,kill,347.77,Team 1,Flameo,Genji,Team 2,Diamond,Hanzo,0,3.11,0,0
+[00:08:04] ,kill,364.22,Team 1,BruhDerpi,Sigma,Team 2,atha,Lúcio,Primary Fire,38.13,0,0
+[00:08:04] ,defensive_assist,364.46,Team 1,THINMINT,Kiriko,0
+[00:08:04] ,offensive_assist,364.46,Team 1,Ante,Lúcio,0
+[00:08:05] ,ultimate_charged,365.18,Team 2,Ronbot,Junker Queen,0,2
+[00:08:09] ,ultimate_start,369.54,Team 2,Ronbot,Junker Queen,0,2
+[00:08:10] ,ultimate_charged,370.31,Team 1,OliverKris,Sojourn,0,2
+[00:08:11] ,ultimate_end,370.89,Team 2,Ronbot,Junker Queen,0,2
+[00:08:12] ,kill,371.73,Team 2,Diamond,Hanzo,Team 1,Ante,Lúcio,Primary Fire,155.88,True,0
+[00:08:14] ,kill,374.47,Team 1,BruhDerpi,Sigma,Team 2,drummr,Genji,Melee,31.44,0,0
+[00:08:15] ,ultimate_charged,374.97,Team 1,Ante,Lúcio,0,2
+[00:08:22] ,kill,382.60,Team 1,Flameo,Genji,Team 2,Diamond,Hanzo,Secondary Fire,19.26,0,0
+[00:08:23] ,defensive_assist,382.79,Team 1,THINMINT,Kiriko,0
+[00:08:23] ,ultimate_charged,383.48,Team 2,hachiko,Kiriko,0,2
+[00:08:30] ,ultimate_start,390.00,Team 1,OliverKris,Sojourn,0,2
+[00:08:31] ,kill,391.30,Team 2,hachiko,Kiriko,Team 1,Flameo,Genji,Melee,10.12,0,0
+[00:08:31] ,defensive_assist,391.33,Team 2,atha,Lúcio,0
+[00:08:34] ,ultimate_start,394.12,Team 2,hachiko,Kiriko,0,2
+[00:08:34] ,ultimate_start,394.50,Team 1,BruhDerpi,Sigma,0,2
+[00:08:35] ,ultimate_start,395.38,Team 1,Ante,Lúcio,0,2
+[00:08:36] ,ultimate_start,396.36,Team 2,atha,Lúcio,0,2
+[00:08:38] ,ultimate_end,398.62,Team 1,BruhDerpi,Sigma,0,2
+[00:08:39] ,ultimate_end,398.74,Team 1,OliverKris,Sojourn,0,2
+[00:08:43] ,ultimate_end,403.10,Team 1,Ante,Lúcio,0,2
+[00:08:43] ,defensive_assist,403.48,Team 1,THINMINT,Kiriko,0
+[00:08:43] ,kill,403.48,Team 1,THINMINT,Kiriko,Team 2,hachiko,Kiriko,0,10.45,True,0
+[00:08:43] ,offensive_assist,403.50,Team 1,Ante,Lúcio,0
+[00:08:43] ,defensive_assist,403.50,Team 1,Ante,Lúcio,0
+[00:08:44] ,offensive_assist,403.94,Team 1,BruhDerpi,Sigma,0
+[00:08:44] ,ultimate_end,404.09,Team 2,atha,Lúcio,0,2
+[00:08:45] ,ultimate_end,404.86,Team 2,hachiko,Kiriko,0,2
+[00:08:53] ,kill,412.78,Team 1,OliverKris,Sojourn,Team 2,drummr,Genji,Primary Fire,5.70,0,0
+[00:08:53] ,defensive_assist,412.89,Team 1,THINMINT,Kiriko,0
+[00:08:53] ,offensive_assist,412.90,Team 1,Ante,Lúcio,0
+[00:08:53] ,defensive_assist,412.90,Team 1,Ante,Lúcio,0
+[00:09:05] ,ultimate_charged,425.05,Team 1,THINMINT,Kiriko,0,3
+[00:09:06] ,kill,425.78,Team 1,BruhDerpi,Sigma,Team 2,hachiko,Kiriko,Melee,12.66,0,0
+[00:09:06] ,defensive_assist,426.04,Team 1,THINMINT,Kiriko,0
+[00:09:06] ,offensive_assist,426.05,Team 1,Ante,Lúcio,0
+[00:09:06] ,defensive_assist,426.05,Team 1,Ante,Lúcio,0
+[00:09:08] ,ultimate_start,428.36,Team 1,THINMINT,Kiriko,0,3
+[00:09:09] ,kill,429.51,Team 1,BruhDerpi,Sigma,Team 2,atha,Lúcio,Melee,4.70,0,0
+[00:09:10] ,offensive_assist,429.80,Team 1,THINMINT,Kiriko,0
+[00:09:10] ,defensive_assist,429.80,Team 1,THINMINT,Kiriko,0
+[00:09:10] ,offensive_assist,429.81,Team 1,Ante,Lúcio,0
+[00:09:10] ,defensive_assist,429.81,Team 1,Ante,Lúcio,0
+[00:09:10] ,kill,430.36,Team 1,Flameo,Genji,Team 2,Diamond,Hanzo,Ability 1,20.58,0,0
+[00:09:11] ,offensive_assist,430.74,Team 1,THINMINT,Kiriko,0
+[00:09:15] ,kill,434.69,Team 1,Ante,Lúcio,Team 2,Ronbot,Junker Queen,Secondary Fire,2.46,0,0
+[00:09:15] ,offensive_assist,434.97,Team 1,THINMINT,Kiriko,0
+[00:09:15] ,defensive_assist,434.97,Team 1,THINMINT,Kiriko,0
+[00:09:18] ,player_stat,438.08,1,Team 2,atha,Lúcio,6,0,7,3475.53,1490.53,1985,7833.57,2326.48,1609.29,4868.03,0,7,8,2,2,0,0,0,3,0,0,6,0.11,0,0,0,550,54,396,0,0,0.12,438.08
+[00:09:18] ,player_stat,438.08,1,Team 1,Flameo,Torbjörn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:09:18] ,player_stat,438.08,1,Team 1,Flameo,Genji,25,12,3,7097.22,0,7097.22,0,1423.59,0,2609.27,0,0,0,2,2,1,3,3,9,0,0,12,0.10,0,0,0,475,124,350,0,0,0.26,438.08
+[00:09:18] ,player_stat,438.08,1,Team 1,BruhDerpi,Sigma,23,13,3,10011.24,0,10011.24,0,5673.10,0,8750.26,9787.40,0,2,2,2,0,0,2,10,0,0,0,0,0,0,0,166,75,89,0,0,0.46,438.08
+[00:09:18] ,player_stat,438.08,1,Team 1,THINMINT,Kiriko,13,5,4,2915.43,0,2915.43,5773.58,967.51,0,2476.62,0,22,10,3,0,0,0,0,4,0,0,6,0.13,0,0,0,227,47,177,0,0,0.21,438.08
+[00:09:18] ,player_stat,438.08,1,Team 1,OliverKris,Sojourn,19,6,3,7392.79,0,7392.79,0,1053.19,0,2327.08,0,0,0,2,2,0,0,0,7,0,0,66,0.17,0,0,0,2342,394,1919,0,0,0.17,438.08
+[00:09:18] ,player_stat,438.08,1,Team 2,Diamond,Hanzo,8,3,9,6706.97,2549.01,4157.95,0,1343.32,0,3814.42,0,0,0,2,2,0,0,0,2,0,0,2,0.06,0,0,0,218,36,147,0,0,0.20,438.08
+[00:09:18] ,player_stat,438.08,1,Team 1,Ante,Lúcio,15,2,3,3978.40,0,3978.40,3674.26,1757.23,875.65,3053.90,0,12,20,2,2,1,3,0,6,0,0,15,0.11,0,0,0,737,131,600,0,0,0.18,438.08
+[00:09:18] ,player_stat,438.08,1,Team 2,drummr,Genji,12,6,7,6036.01,2267.60,3768.41,0,1935.58,0,4520.98,0,0,0,1,1,0,0,0,3,0,0,10,0.12,0,0,0,653,81,483,0,0,0.14,438.08
+[00:09:18] ,player_stat,438.08,1,Team 2,hachiko,Kiriko,4,2,9,3083.08,1346.96,1736.12,3906.53,1754.22,0,4837.63,0,7,2,2,1,0,0,0,0,0,0,3,0.12,0,0,0,140,25,87,0,0,0.22,438.08
+[00:09:18] ,round_end,438.08,1,Team 2,0,1,1,0,0,0
+[00:09:18] ,player_stat,438.08,1,Team 2,Ronbot,Junker Queen,10,5,6,9582.95,2133.29,7449.65,0,7501.49,1856.93,13354.02,0,0,0,2,2,0,0,0,8,0,0,50,0.10,0,0,0,2180,487,1417,0,0,0.26,438.08
+[00:09:18] ,ultimate_end,438.08,Team 1,THINMINT,Kiriko,0,3
+[00:09:30] ,objective_updated,438.08,2,1,0
+[00:09:31] ,round_start,438.08,2,Team 1,0,3,0
+[00:09:31] ,hero_spawn,438.08,Team 1,Flameo,Genji,,0
+[00:09:31] ,hero_spawn,438.08,Team 1,Ante,Lúcio,,0
+[00:09:32] ,hero_spawn,438.08,Team 1,THINMINT,Kiriko,,0
+[00:09:32] ,hero_spawn,438.08,Team 2,Diamond,Hanzo,,0
+[00:09:32] ,hero_spawn,438.08,Team 2,Ronbot,Junker Queen,,0
+[00:09:33] ,hero_spawn,438.08,Team 1,BruhDerpi,Sigma,,0
+[00:09:34] ,hero_spawn,438.08,Team 1,OliverKris,Sojourn,,0
+[00:09:47] ,hero_spawn,438.08,Team 2,drummr,Genji,,0
+[00:10:04] ,hero_spawn,438.08,Team 2,hachiko,Kiriko,,0
+[00:10:18] ,hero_spawn,438.08,Team 2,atha,Lúcio,,0
+[00:10:27] ,hero_swap,438.08,Team 1,Ante,Ana,Lúcio,0
+[00:10:41] ,hero_swap,438.08,Team 1,Ante,Lúcio,Ana,0
+[00:11:11] ,hero_swap,438.08,Team 1,OliverKris,Junkrat,Sojourn,0
+[00:11:19] ,hero_swap,438.08,Team 1,OliverKris,Sojourn,Junkrat,0
+[00:11:20] ,hero_swap,438.08,Team 1,Ante,Ana,Lúcio,0
+[00:11:21] ,hero_swap,438.08,Team 1,Ante,Zenyatta,Ana,0
+[00:11:29] ,hero_swap,438.08,Team 1,Ante,Lúcio,Zenyatta,0
+[00:11:35] ,setup_complete,438.08,2,239.99
+[00:12:00] ,kill,462.77,Team 1,OliverKris,Sojourn,Team 2,drummr,Genji,Secondary Fire,72.60,0,0
+[00:12:00] ,offensive_assist,463.14,Team 1,BruhDerpi,Sigma,0
+[00:12:00] ,defensive_assist,463.17,Team 1,THINMINT,Kiriko,0
+[00:12:00] ,offensive_assist,463.20,Team 1,Ante,Lúcio,0
+[00:12:09] ,kill,471.79,Team 1,Flameo,Genji,Team 2,Ronbot,Junker Queen,Secondary Fire,6.52,0,0
+[00:12:09] ,offensive_assist,472.06,Team 1,BruhDerpi,Sigma,0
+[00:12:09] ,defensive_assist,472.09,Team 1,THINMINT,Kiriko,0
+[00:12:13] ,kill,475.63,Team 1,Flameo,Genji,Team 2,atha,Lúcio,Secondary Fire,34.81,True,0
+[00:12:13] ,offensive_assist,475.85,Team 1,Ante,Lúcio,0
+[00:12:13] ,defensive_assist,475.87,Team 1,THINMINT,Kiriko,0
+[00:12:13] ,kill,476.09,Team 1,OliverKris,Sojourn,Team 2,hachiko,Kiriko,Secondary Fire,77.97,0,0
+[00:12:13] ,defensive_assist,476.33,Team 1,THINMINT,Kiriko,0
+[00:12:15] ,kill,478.21,Team 1,Flameo,Genji,Team 2,Diamond,Hanzo,Melee,22.46,0,0
+[00:12:15] ,offensive_assist,478.24,Team 1,Ante,Lúcio,0
+[00:12:18] ,point_progress,481.04,2,Team 1,0,33.33
+[00:12:26] ,point_progress,488.62,2,Team 1,0,66.63
+[00:12:35] ,point_progress,498.10,2,Team 1,0,99.93
+[00:12:35] ,objective_updated,498.14,2,0,1
+[00:12:35] ,objective_captured,498.14,2,Team 1,1,0,0,329.93
+[00:12:49] ,kill,512.32,Team 1,Flameo,Genji,Team 2,drummr,Genji,Melee,38.21,0,0
+[00:12:50] ,defensive_assist,512.51,Team 1,THINMINT,Kiriko,0
+[00:12:50] ,offensive_assist,512.54,Team 1,Ante,Lúcio,0
+[00:12:50] ,defensive_assist,512.54,Team 1,Ante,Lúcio,0
+[00:12:54] ,kill,517.24,Team 1,Flameo,Genji,Team 2,Diamond,Hanzo,Melee,10.40,0,0
+[00:12:59] ,kill,521.73,Team 1,Ante,Lúcio,Team 2,Ronbot,Junker Queen,Secondary Fire,40.27,0,0
+[00:12:59] ,offensive_assist,521.88,Team 1,BruhDerpi,Sigma,0
+[00:12:59] ,defensive_assist,521.91,Team 1,THINMINT,Kiriko,0
+[00:12:59] ,defensive_assist,521.94,Team 1,Ante,Lúcio,0
+[00:13:01] ,kill,523.49,Team 1,OliverKris,Sojourn,Team 2,hachiko,Kiriko,Primary Fire,1.70,0,0
+[00:13:01] ,defensive_assist,523.78,Team 1,THINMINT,Kiriko,0
+[00:13:01] ,offensive_assist,523.81,Team 1,Ante,Lúcio,0
+[00:13:01] ,kill,524.04,Team 1,Flameo,Genji,Team 2,atha,Lúcio,Ability 1,23.62,0,0
+[00:13:01] ,defensive_assist,524.25,Team 1,THINMINT,Kiriko,0
+[00:13:01] ,offensive_assist,524.28,Team 1,Ante,Lúcio,0
+[00:13:09] ,ultimate_charged,532.07,Team 1,BruhDerpi,Sigma,0,3
+[00:13:15] ,payload_progress,537.89,2,Team 1,1,10.02
+[00:13:27] ,payload_progress,549.64,2,Team 1,1,20.02
+[00:13:39] ,payload_progress,561.54,2,Team 1,1,30.02
+[00:13:40] ,ultimate_start,562.77,Team 1,BruhDerpi,Sigma,0,3
+[00:13:41] ,ultimate_charged,564.18,Team 1,Flameo,Genji,0,3
+[00:13:43] ,kill,566.30,Team 1,OliverKris,Sojourn,Team 2,hachiko,Kiriko,Primary Fire,6.98,0,0
+[00:13:44] ,offensive_assist,566.49,Team 1,BruhDerpi,Sigma,0
+[00:13:44] ,defensive_assist,566.56,Team 1,THINMINT,Kiriko,0
+[00:13:44] ,kill,566.80,Team 1,BruhDerpi,Sigma,Team 2,drummr,Genji,Ultimate,120.17,0,0
+[00:13:44] ,kill,566.83,Team 1,BruhDerpi,Sigma,Team 2,Diamond,Hanzo,Ultimate,5.58,0,0
+[00:13:44] ,ultimate_end,566.99,Team 1,BruhDerpi,Sigma,0,3
+[00:13:44] ,defensive_assist,567.04,Team 1,THINMINT,Kiriko,0
+[00:13:44] ,defensive_assist,567.04,Team 1,THINMINT,Kiriko,0
+[00:13:46] ,ultimate_charged,569.16,Team 1,THINMINT,Kiriko,0,4
+[00:13:48] ,ultimate_start,570.33,Team 1,THINMINT,Kiriko,0,4
+[00:13:48] ,ultimate_charged,570.99,Team 2,atha,Lúcio,0,3
+[00:13:49] ,ultimate_charged,572.16,Team 1,OliverKris,Sojourn,0,3
+[00:13:50] ,ultimate_charged,573.05,Team 2,Diamond,Hanzo,0,3
+[00:13:50] ,ultimate_start,573.26,Team 1,OliverKris,Sojourn,0,3
+[00:13:52] ,kill,574.97,Team 1,OliverKris,Sojourn,Team 2,Ronbot,Junker Queen,Ultimate,68.94,0,0
+[00:13:52] ,offensive_assist,575.00,Team 1,THINMINT,Kiriko,0
+[00:13:52] ,defensive_assist,575.00,Team 1,THINMINT,Kiriko,0
+[00:13:52] ,offensive_assist,575.02,Team 1,Ante,Lúcio,0
+[00:13:53] ,offensive_assist,575.42,Team 1,BruhDerpi,Sigma,0
+[00:13:53] ,kill,575.80,Team 1,Flameo,Genji,Team 2,atha,Lúcio,Primary Fire,42.58,True,0
+[00:13:58] ,ultimate_end,581.05,Team 1,THINMINT,Kiriko,0,4
+[00:13:59] ,ultimate_end,581.99,Team 1,OliverKris,Sojourn,0,3
+[00:14:05] ,payload_progress,587.92,2,Team 1,1,40.02
+[00:14:05] ,ultimate_charged,588.05,Team 1,Ante,Lúcio,0,3
+[00:14:11] ,ultimate_charged,594.03,Team 2,Ronbot,Junker Queen,0,3
+[00:14:17] ,payload_progress,599.36,2,Team 1,1,50.02
+[00:14:28] ,kill,610.77,Team 1,BruhDerpi,Sigma,Team 2,drummr,Genji,Primary Fire,17.69,0,0
+[00:14:28] ,offensive_assist,611.19,Team 1,THINMINT,Kiriko,0
+[00:14:28] ,defensive_assist,611.19,Team 1,THINMINT,Kiriko,0
+[00:14:30] ,kill,613.17,Team 2,Ronbot,Junker Queen,Team 1,THINMINT,Kiriko,0,41.30,0,0
+[00:14:31] ,defensive_assist,613.57,Team 2,hachiko,Kiriko,0
+[00:14:31] ,ultimate_charged,613.57,Team 2,hachiko,Kiriko,0,3
+[00:14:31] ,ultimate_start,613.72,Team 1,Flameo,Genji,0,3
+[00:14:32] ,kill,614.50,Team 2,Diamond,Hanzo,Team 1,Flameo,Genji,Primary Fire,54.80,0,0
+[00:14:32] ,ultimate_end,614.50,Team 1,Flameo,Genji,0,3
+[00:14:32] ,offensive_assist,614.50,Team 2,hachiko,Kiriko,0
+[00:14:32] ,defensive_assist,614.50,Team 2,hachiko,Kiriko,0
+[00:14:32] ,ultimate_start,614.90,Team 2,atha,Lúcio,0,3
+[00:14:33] ,kill,615.49,Team 1,OliverKris,Sojourn,Team 2,Ronbot,Junker Queen,Secondary Fire,83.60,True,0
+[00:14:33] ,offensive_assist,615.86,Team 1,Ante,Lúcio,0
+[00:14:33] ,defensive_assist,615.86,Team 1,Ante,Lúcio,0
+[00:14:35] ,payload_progress,617.43,2,Team 1,1,60.02
+[00:14:37] ,objective_updated,620.08,2,1,2
+[00:14:37] ,objective_captured,620.08,2,Team 1,2,0,0,297.93
+[00:14:40] ,ultimate_end,622.62,Team 2,atha,Lúcio,0,3
+[00:14:44] ,ultimate_start,626.43,Team 2,Diamond,Hanzo,0,3
+[00:14:45] ,ultimate_end,627.39,Team 2,Diamond,Hanzo,0,3
+[00:14:47] ,kill,629.79,Team 2,Diamond,Hanzo,Team 1,Ante,Lúcio,Ability 2,4.40,True,0
+[00:14:47] ,defensive_assist,630.00,Team 2,atha,Lúcio,0
+[00:14:51] ,kill,633.43,Team 1,BruhDerpi,Sigma,Team 2,Diamond,Hanzo,Primary Fire,15.13,0,0
+[00:14:51] ,offensive_assist,633.71,Team 1,Ante,Lúcio,0
+[00:15:00] ,payload_progress,642.72,2,Team 1,2,70.02
+[00:15:02] ,kill,644.92,Team 2,Ronbot,Junker Queen,Team 1,BruhDerpi,Sigma,0,45.85,0,0
+[00:15:02] ,defensive_assist,645.06,Team 2,hachiko,Kiriko,0
+[00:15:08] ,kill,650.34,Team 2,Ronbot,Junker Queen,Team 1,Ante,Lúcio,0,35.84,0,0
+[00:15:08] ,ultimate_charged,650.58,Team 2,drummr,Genji,0,2
+[00:15:08] ,offensive_assist,650.66,Team 2,atha,Lúcio,0
+[00:15:09] ,kill,651.79,Team 2,atha,Lúcio,Team 1,OliverKris,Sojourn,Primary Fire,8.12,0,0
+[00:15:09] ,defensive_assist,652.08,Team 2,hachiko,Kiriko,0
+[00:15:14] ,kill,656.78,Team 1,THINMINT,Kiriko,Team 2,hachiko,Kiriko,0,85.38,True,0
+[00:15:14] ,kill,656.80,Team 2,Ronbot,Junker Queen,Team 1,THINMINT,Kiriko,Ability 2,80.94,0,0
+[00:15:14] ,defensive_assist,657.26,Team 2,hachiko,Kiriko,0
+[00:15:15] ,kill,658.04,Team 1,Flameo,Genji,Team 2,drummr,Genji,Secondary Fire,7.17,0,0
+[00:15:15] ,defensive_assist,658.16,Team 1,THINMINT,Kiriko,0
+[00:15:30] ,kill,672.85,Team 1,BruhDerpi,Sigma,Team 2,Diamond,Hanzo,Primary Fire,11.98,0,0
+[00:15:30] ,defensive_assist,673.19,Team 1,THINMINT,Kiriko,0
+[00:15:34] ,kill,676.64,Team 1,OliverKris,Sojourn,Team 2,atha,Lúcio,Secondary Fire,31.55,0,0
+[00:15:34] ,defensive_assist,676.95,Team 1,THINMINT,Kiriko,0
+[00:15:35] ,ultimate_charged,677.94,Team 1,BruhDerpi,Sigma,0,4
+[00:15:37] ,ultimate_start,679.42,Team 1,BruhDerpi,Sigma,0,4
+[00:15:37] ,payload_progress,680.06,2,Team 1,2,80.02
+[00:15:39] ,ultimate_end,681.58,Team 1,BruhDerpi,Sigma,0,4
+[00:15:40] ,ultimate_start,682.57,Team 2,hachiko,Kiriko,0,3
+[00:15:40] ,kill,682.64,Team 1,Flameo,Genji,Team 2,hachiko,Kiriko,Secondary Fire,24.83,0,0
+[00:15:40] ,offensive_assist,683.04,Team 1,Ante,Lúcio,0
+[00:15:43] ,kill,686.03,Team 1,BruhDerpi,Sigma,Team 2,drummr,Genji,Primary Fire,3.45,0,0
+[00:15:44] ,offensive_assist,686.33,Team 1,Ante,Lúcio,0
+[00:15:44] ,defensive_assist,686.35,Team 1,THINMINT,Kiriko,0
+[00:15:45] ,kill,687.77,Team 1,BruhDerpi,Sigma,Team 2,Ronbot,Junker Queen,Primary Fire,36.13,0,0
+[00:15:45] ,defensive_assist,688.22,Team 1,THINMINT,Kiriko,0
+[00:15:51] ,ultimate_end,693.30,Team 2,hachiko,Kiriko,0,3
+[00:15:52] ,payload_progress,694.78,2,Team 1,2,90.02
+[00:16:01] ,ultimate_charged,703.92,Team 1,OliverKris,Sojourn,0,4
+[00:16:03] ,payload_progress,706.08,2,Team 1,3,0
+[00:16:03] ,objective_updated,706.08,2,2,3
+[00:16:03] ,player_stat,706.10,2,Team 2,atha,Lúcio,9,1,11,6308.67,3130.55,3178.12,11107.48,3489.06,2457.44,7372.08,0,8,9,3,3,0,0,0,4,0,0,9,0.10,0,0,0,928,92,646,0,0,0.12,706.10
+[00:16:03] ,player_stat,706.10,2,Team 1,Flameo,Torbjörn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:16:03] ,player_stat,706.10,2,Team 1,Flameo,Genji,41,21,4,9993.33,0,9993.33,0,2411.48,0,4180.46,0,0,0,3,3,1,3,5,12,0,0,21,0.11,0,0,0,776,188,584,0,0,0.24,706.10
+[00:16:03] ,player_stat,706.10,2,Team 2,Ronbot,Junker Queen,15,9,11,15215.29,3786.84,11428.46,0,10735.82,2959.16,20322.58,0,0,0,3,2,0,0,0,10,0,0,72,0.09,0,0,0,3400,766,2117,0,0,0.27,706.10
+[00:16:03] ,player_stat,706.10,2,Team 1,BruhDerpi,Sigma,40,20,4,15821.02,0,15821.02,0,10412.21,0,14878.84,17869.60,0,7,4,4,1,3,2,14,0,0,0,0,0,0,0,255,118,135,0,0,0.47,706.10
+[00:16:03] ,player_stat,706.10,2,Team 1,THINMINT,Kiriko,19,6,6,4260.81,0,4260.81,10053.52,1128.79,0,3272.09,0,40,12,4,0,0,0,1,7,0,0,10,0.15,0,0,0,318,67,241,0,0,0.22,706.10
+[00:16:03] ,player_stat,706.10,2,Team 1,OliverKris,Sojourn,36,13,4,11974.73,0,11974.73,0,1339.91,0,2917.83,0,0,0,4,3,1,3,0,12,0,0,105,0.16,0,0,0,3633,669,2924,0,0,0.19,706.10
+[00:16:03] ,player_stat,706.10,2,Team 1,OliverKris,Junkrat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:16:03] ,player_stat,706.10,2,Team 2,Diamond,Hanzo,10,5,14,11427.24,4639.15,6788.09,0,2664.51,0,6871.58,0,0,0,3,3,0,0,0,2,0,0,6,0.10,0,0,0,329,63,204,0,0,0.24,706.10
+[00:16:03] ,player_stat,706.10,2,Team 1,Ante,Lúcio,23,3,5,6553.67,0,6553.67,5509.63,2694.94,1295.28,4742.47,0,15,31,3,2,1,3,0,7,0,0,25,0.11,0,0,0,1187,220,954,0,0,0.19,706.10
+[00:16:03] ,player_stat,706.10,2,Team 1,Ante,Ana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:16:03] ,player_stat,706.10,2,Team 1,Ante,Zenyatta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:16:03] ,player_stat,706.10,2,Team 2,drummr,Genji,15,6,13,9082.51,3531.60,5550.91,0,2525.64,0,6831.44,0,0,0,2,1,0,0,0,3,0,0,14,0.11,0,0,0,968,128,690,0,0,0.16,706.10
+[00:16:03] ,player_stat,706.10,2,Team 2,hachiko,Kiriko,7,2,14,5607.58,2781.46,2826.12,6180.70,2492.13,0,7205.89,0,12,3,3,2,0,0,0,1,0,0,6,0.15,0,0,0,267,40,170,0,0,0.19,706.10
+[00:16:03] ,round_end,706.10,2,Team 1,3,3,3,0,0,211.88
+[00:16:04] ,round_end,706.10,2,Team 1,3,3,3,0,0,211.88
+[00:16:04] ,match_end,706.10,2,3,3
+[00:16:04] ,player_stat,706.10,2,Team 2,atha,Lúcio,9,1,11,6308.67,3130.55,3178.12,11107.48,3489.06,2457.44,7372.08,0,8,9,3,3,0,0,0,4,0,0,9,0.10,0,0,0,928,92,646,0,0,0.12,706.10
+[00:16:04] ,player_stat,706.10,2,Team 1,Flameo,Torbjörn,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:16:04] ,player_stat,706.10,2,Team 1,Flameo,Genji,41,21,4,9993.33,0,9993.33,0,2411.48,0,4180.46,0,0,0,3,3,1,3,5,12,0,0,21,0.11,0,0,0,776,188,584,0,0,0.24,706.10
+[00:16:04] ,player_stat,706.10,2,Team 2,Ronbot,Junker Queen,15,9,11,15215.29,3786.84,11428.46,0,10735.82,2959.16,20322.58,0,0,0,3,2,0,0,0,10,0,0,72,0.09,0,0,0,3400,766,2117,0,0,0.27,706.10
+[00:16:04] ,player_stat,706.10,2,Team 1,BruhDerpi,Sigma,40,20,4,15821.02,0,15821.02,0,10412.21,0,14878.84,17869.60,0,7,4,4,1,3,2,14,0,0,0,0,0,0,0,255,118,135,0,0,0.47,706.10
+[00:16:04] ,player_stat,706.10,2,Team 1,THINMINT,Kiriko,19,6,6,4260.81,0,4260.81,10053.52,1128.79,0,3272.09,0,40,12,4,0,0,0,1,7,0,0,10,0.15,0,0,0,318,67,241,0,0,0.22,706.10
+[00:16:04] ,player_stat,706.10,2,Team 1,OliverKris,Sojourn,36,13,4,11974.73,0,11974.73,0,1339.91,0,2917.83,0,0,0,4,3,1,3,0,12,0,0,105,0.16,0,0,0,3633,669,2924,0,0,0.19,706.10
+[00:16:04] ,player_stat,706.10,2,Team 1,OliverKris,Junkrat,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:16:04] ,player_stat,706.10,2,Team 2,Diamond,Hanzo,10,5,14,11427.24,4639.15,6788.09,0,2664.51,0,6871.58,0,0,0,3,3,0,0,0,2,0,0,6,0.10,0,0,0,329,63,204,0,0,0.24,706.10
+[00:16:04] ,player_stat,706.10,2,Team 1,Ante,Lúcio,23,3,5,6553.67,0,6553.67,5509.63,2694.94,1295.28,4742.47,0,15,31,3,2,1,3,0,7,0,0,25,0.11,0,0,0,1187,220,954,0,0,0.19,706.10
+[00:16:04] ,player_stat,706.10,2,Team 1,Ante,Ana,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:16:04] ,player_stat,706.10,2,Team 1,Ante,Zenyatta,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+[00:16:04] ,player_stat,706.10,2,Team 2,drummr,Genji,15,6,13,9082.51,3531.60,5550.91,0,2525.64,0,6831.44,0,0,0,2,1,0,0,0,3,0,0,14,0.11,0,0,0,968,128,690,0,0,0.16,706.10
+[00:16:04] ,player_stat,706.10,2,Team 2,hachiko,Kiriko,7,2,14,5607.58,2781.46,2826.12,6180.70,2492.13,0,7205.89,0,12,3,3,2,0,0,0,1,0,0,6,0.15,0,0,0,267,40,170,0,0,0.19,706.10
